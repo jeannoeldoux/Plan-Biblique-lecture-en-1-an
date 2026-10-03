@@ -1,0 +1,56 @@
+{
+  "chronologique-s21": {
+    "jours": 365,
+    "chapitres": 1189,
+    "versets_numerotes": 31169,
+    "jours_rattrapage": 0
+  },
+  "parallele-s21": {
+    "jours": 365,
+    "chapitres": 1189,
+    "versets_numerotes": 31169,
+    "jours_rattrapage": 0
+  },
+  "rattrapage-s21": {
+    "jours": 365,
+    "chapitres": 1189,
+    "versets_numerotes": 31169,
+    "jours_rattrapage": 52
+  },
+  "chronologique-lsg": {
+    "jours": 365,
+    "chapitres": 1189,
+    "versets_numerotes": 31102,
+    "jours_rattrapage": 0
+  },
+  "parallele-lsg": {
+    "jours": 365,
+    "chapitres": 1189,
+    "versets_numerotes": 31102,
+    "jours_rattrapage": 0
+  },
+  "rattrapage-lsg": {
+    "jours": 365,
+    "chapitres": 1189,
+    "versets_numerotes": 31102,
+    "jours_rattrapage": 52
+  },
+  "chronologique-pdv": {
+    "jours": 365,
+    "chapitres": 1189,
+    "versets_numerotes": 31171,
+    "jours_rattrapage": 0
+  },
+  "parallele-pdv": {
+    "jours": 365,
+    "chapitres": 1189,
+    "versets_numerotes": 31171,
+    "jours_rattrapage": 0
+  },
+  "rattrapage-pdv": {
+    "jours": 365,
+    "chapitres": 1189,
+    "versets_numerotes": 31171,
+    "jours_rattrapage": 52
+  }
+}
