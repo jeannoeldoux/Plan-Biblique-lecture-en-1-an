@@ -32,3 +32,11 @@ html.app-guide[data-theme="light"] input,html.app-guide[data-theme="light"] sele
 .app-presentation{border:1px solid #8995a2;border-radius:14px;padding:16px;margin:24px 0}.app-presentation h2{font-size:24px}.app-presentation summary{cursor:pointer;min-height:44px;padding:10px 0;font-weight:700}.plan-explanation{padding:12px;margin:12px 0}.plan-explanation h3{margin:0}.plan-explanation p{margin:8px 0}html[data-theme="dark"] .app-presentation{background:#1c2733}@media(max-width:600px){.app-presentation{padding:12px}.app-presentation h2{font-size:21px}}
 
 .family-discussion details{margin:12px 0;padding:10px;border:1px solid #8995a2;border-radius:10px}.family-discussion summary{font-weight:700;cursor:pointer;min-height:44px}.family-discussion p{overflow-wrap:anywhere}
+
+/* Le statut audio conserve une ligne entière, même en portrait ou en mode concentration. */
+.audio-nav{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);align-items:stretch;gap:8px}
+.audio-nav #audioPosition{grid-column:1/-1;grid-row:1;display:block;min-width:0;width:100%;margin:0;padding:6px 0;text-align:center;white-space:normal;overflow-wrap:normal;word-break:normal;line-height:1.4}
+.audio-nav #audioPrevious{grid-column:1;grid-row:2}
+.audio-nav #audioNext{grid-column:2;grid-row:2}
+.audio-nav button{min-width:0;width:100%;white-space:normal;overflow-wrap:normal;word-break:normal;line-height:1.35}
+@media(max-width:600px){.player{min-width:0}.player>button{max-width:100%;white-space:normal}.audio-nav button{padding:10px 8px;min-height:48px}.player .audio-settings{min-width:0}.background-audio-help{min-width:0}.background-audio-help summary{white-space:normal;overflow-wrap:normal;word-break:normal}#audioFocusDialog .audio-nav button{padding:10px 6px}}
