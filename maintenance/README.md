@@ -26,3 +26,7 @@ Version 31 : 27 variantes (neuf plans), book-guides.js pour les contenus synthé
 
 
 Version 32 : plan-guide.js et choisir-parcours.html ; notebook.js utilise notes, noteTopics et favoris déjà exportés, aucun nouveau champ de sauvegarde ; version-notes.js et comparer-versions.html proposent quatre comparaisons documentées, avec correspondances explicites par version. Garder le carnet local, les anciennes clés de suivi et les tableaux des journées inchangés.
+
+
+## Version 2026.10.04.33
+Dix plans, trente variantes, 10 950 journées. Le nouveau parcours israel-nations dispose de clés de suivi indépendantes, de douze étapes et d’une méthode. Le validateur contrôle également ses 51 regroupements protégés et ses chapitres entiers. Toute modification de ses données après publication doit préserver le sens des journées et du suivi.
