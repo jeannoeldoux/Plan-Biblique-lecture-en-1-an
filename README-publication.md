@@ -24,3 +24,5 @@ Mises à jour : publier aussi version.json et updates.js. Pour chaque nouvelle l
 
 Version 2026.10.03.20 : navigation mobile et Media Session, plus aide au transfert manuel sur chaque plan. Le suivi reste local ; le transfert export/import ne crée pas de compte ni de serveur de synchronisation. Ne pas confondre absence de serveur de suivi et absence de données techniques chez les fournisseurs : hébergement, audio et liens externes impliquent des requêtes réseau. Les fichiers de sauvegarde contiennent les notes en clair. Pour les transférer sans fournisseur tiers, utiliser un câble et conserver les fichiers en lieu sûr. Audio écran verrouillé : démarrer un chapitre puis tester sur l'appareil. Les commandes disponibles et l'enchaînement en arrière-plan dépendent du navigateur et du système. Un minuteur JavaScript peut être retardé en arrière-plan.
 
+
+Troisième version : publier tous les fichiers, notamment les quatre pages plan-*-pdv.html, recherche.html, index.html, sw.js, mobile-audio.js, updates.js et version.json. Les suivis S21/LSG et leurs clés sont conservés. La PDV possède ses propres suivis et sauvegardes.

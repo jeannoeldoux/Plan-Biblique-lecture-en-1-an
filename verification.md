@@ -19,3 +19,8 @@ Recherche et affichage : recherche globale dans les 2 920 journées (4 plans × 
 
 Mises à jour : tests Edge réussis pour version déjà à jour, nouvelle version, téléchargement interrompu puis réussi, mode hors connexion et fichiers locaux. Comparaison intégrale du stockage local avant/après : données de suivi simulées (coches, notes, date, archives, dernière journée) de plusieurs plans/versions et choix du plan inchangés, y compris après échec. Aucune erreur JavaScript. Le mécanisme de mise à jour ne supprime ni ne réécrit les données personnelles.
 
+
+Version 2026.10.03.20 : tests Edge réussis des huit variantes, navigation jours/bornes, largeur 320/390/600/768, métadonnées Media Session, lecture/pause, recherche temporelle, précédent/suivant. Audio de test simulé avec prise en charge des requêtes partielles. Export/import réel d'une note entre deux contextes indépendants réussi via les nouveaux boutons. Aucune erreur JavaScript. L'écran verrouillé physique iOS/Android et les interruptions système ne sont pas vérifiés dans cet environnement.
+
+
+Parole de Vie 2017, version 2026.10.03.21 : quatre plans de 365 jours, 1 189 chapitres référencés, 1 189 liens MP3 répondant HTTP 200 avec type audio. Numérotation vérifiée depuis les pages YouVersion ; répartition par genres couvrant 31 171 numéros de versets sans omission ni doublon. Les huit jeux de données S21/LSG précédents sont inchangés. Tests Edge : choix des trois versions, changement au même jour, notes séparées, recherche PDV, largeurs 320/390/768, décodage réel audio, métadonnées PDV, quatre plans PDV hors connexion, aucune erreur JavaScript. Aucun texte intégral ni enregistrement audio embarqué. Audio physique écran verrouillé non vérifié.

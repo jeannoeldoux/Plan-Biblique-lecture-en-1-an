@@ -1,0 +1,24 @@
+{
+  "version": "PDV2017",
+  "chapitres": 1189,
+  "audio": 1189,
+  "plans": {
+    "classique": {
+      "jours": 365,
+      "chapitres": 1189
+    },
+    "genres": {
+      "jours": 365,
+      "chapitres": 1189,
+      "versets_numerotes": 31171
+    },
+    "salut": {
+      "jours": 365,
+      "chapitres": 1189
+    },
+    "semaines": {
+      "jours": 365,
+      "chapitres": 1189
+    }
+  }
+}
