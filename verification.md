@@ -24,3 +24,6 @@ Version 2026.10.03.20 : tests Edge réussis des huit variantes, navigation jours
 
 
 Parole de Vie 2017, version 2026.10.03.21 : quatre plans de 365 jours, 1 189 chapitres référencés, 1 189 liens MP3 répondant HTTP 200 avec type audio. Numérotation vérifiée depuis les pages YouVersion ; répartition par genres couvrant 31 171 numéros de versets sans omission ni doublon. Les huit jeux de données S21/LSG précédents sont inchangés. Tests Edge : choix des trois versions, changement au même jour, notes séparées, recherche PDV, largeurs 320/390/768, décodage réel audio, métadonnées PDV, quatre plans PDV hors connexion, aucune erreur JavaScript. Aucun texte intégral ni enregistrement audio embarqué. Audio physique écran verrouillé non vérifié.
+
+Rappels personnalisés : tests réussis sur les douze parcours. Absence de date de départ, horaires hebdomadaires, jour de semaine désactivé, date exceptionnelle désactivée, horaire 23:55 avec fin le lendemain, nombre exact d'événements exportés et alarmes VALARM, liens vers le bon plan/version, affichage 320/390 px, conservation après rechargement, suppression d'une exception, suivi des lectures inchangé. Export et validation de sauvegarde avec réglages, import explicite via case facultative réussi ; aucune erreur JavaScript. Les notifications réelles de calendriers iOS/Android ne sont pas testées ici.
+

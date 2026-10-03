@@ -26,3 +26,6 @@ Version 2026.10.03.20 : navigation mobile et Media Session, plus aide au transfe
 
 
 Troisième version : publier tous les fichiers, notamment les quatre pages plan-*-pdv.html, recherche.html, index.html, sw.js, mobile-audio.js, updates.js et version.json. Les suivis S21/LSG et leurs clés sont conservés. La PDV possède ses propres suivis et sauvegardes.
+
+Version 2026.10.03.22 : publier aussi reminders.js, les douze pages des plans, theme.css, sw.js, updates.js et version.json. Dans Rappels calendrier : jours de semaine activables et horaires distincts, exceptions par date via un affichage mensuel. Les coches de rappel n'affectent pas les lectures validées. Les réglages sont inclus dans la sauvegarde ; leur import est facultatif et remplace le planning de rappels seulement si la case correspondante est cochée. Les sauvegardes antérieures restent acceptées. Une modification ne met pas automatiquement à jour les événements déjà importés dans le calendrier du téléphone ; réexporter et gérer les anciens événements dans un calendrier séparé pour éviter les doublons.
+
