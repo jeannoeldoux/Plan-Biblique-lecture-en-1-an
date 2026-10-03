@@ -23,3 +23,6 @@ Le module daily-companion.js complète les repères écrits, le rythme et le bil
 
 
 Version 31 : 27 variantes (neuf plans), book-guides.js pour les contenus synthétiques, study.js / study.css pour leur affichage, personal-home.js et review-kit.js. Les 51 groupes protégés du parcours continuité et les catalogues initiaux demandent une relecture extérieure, non réalisée. Ne pas exécuter les anciens scripts de construction incrémentaux sur la livraison courante.
+
+
+Version 32 : plan-guide.js et choisir-parcours.html ; notebook.js utilise notes, noteTopics et favoris déjà exportés, aucun nouveau champ de sauvegarde ; version-notes.js et comparer-versions.html proposent quatre comparaisons documentées, avec correspondances explicites par version. Garder le carnet local, les anciennes clés de suivi et les tableaux des journées inchangés.
