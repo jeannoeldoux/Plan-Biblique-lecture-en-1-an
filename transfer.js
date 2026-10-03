@@ -1,0 +1,11 @@
+(()=>{
+const exportButton=document.getElementById('exportBackup'),importButton=document.getElementById('importBackup');if(!exportButton||!importButton)return;
+const panel=document.createElement('details');panel.className='planning transfer-help';panel.id='transferHelp';
+const title=document.createElement('summary');title.textContent='Transférer mon suivi sur un autre appareil';
+const intro=document.createElement('p');intro.textContent='Sans compte : ce transfert manuel n’envoie pas vos notes ou votre progression à un serveur de synchronisation.';
+const steps=document.createElement('ol');
+for(const text of ['Sur l’appareil où votre suivi est le plus récent, exportez une sauvegarde.','Transférez ce fichier vers l’autre appareil, par câble ou par un moyen de votre choix. Un service de messagerie ou de stockage applique ses propres règles de confidentialité.','Sur l’autre appareil, ouvrez le même plan et la même version de Bible, puis importez le fichier. Vérifiez l’aperçu et les éventuels conflits de notes avant de confirmer.','Après avoir poursuivi votre lecture sur cet appareil, exportez à nouveau avant de revenir sur le premier appareil.']){const li=document.createElement('li');li.textContent=text;steps.append(li)}
+const actions=document.createElement('div');actions.className='tracking-actions';for(const [id,label,target] of [['transferExport','Exporter ce suivi',exportButton],['transferImport','Importer un suivi',importButton]]){const b=document.createElement('button');b.id=id;b.type='button';b.textContent=label;b.onclick=()=>target.click();actions.append(b)}
+const note=document.createElement('p');note.textContent='Chaque plan et version possède sa propre sauvegarde. Le transfert n’est pas automatique : évitez de modifier le suivi sur deux appareils simultanément. Le fichier contient vos notes ; gardez-le à l’abri. Aucune inscription ni identifiant personnel n’est nécessaire.';
+panel.append(title,intro,steps,actions,note);const nav=document.querySelector('main nav')||document.getElementById('daySelect').closest('nav');nav.after(panel);
+})();
