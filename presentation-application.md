@@ -1,4 +1,4 @@
-# La Bible en un an : sept parcours, trois versions
+# La Bible en un an : huit parcours, trois versions
 
 L’application accompagne la lecture des 66 livres de la Bible en un an. Elle propose la Segond 21, la Segond — Trésor Sonore et la Parole de Vie 2017.
 
@@ -29,6 +29,10 @@ Un passage de chaque Testament chaque jour, dans l’ordre des livres. Pour une 
 ## Lecture avec jour de rattrapage
 
 Six journées de lecture puis une journée libre, avec une lecture finale au jour 365. Pour garder de la souplesse : 313 journées de lecture et 52 pauses ; les lectures sont un peu plus longues.
+
+## En famille ou petit groupe
+
+Une lecture personnelle de toute la Bible, un extrait partagé, des questions de découverte et d’approfondissement, et une piste de prière. Pour dialoguer entre lecteurs de niveaux différents ; les extraits seuls ne couvrent pas toute la Bible.
 
 ## Fonctions communes
 

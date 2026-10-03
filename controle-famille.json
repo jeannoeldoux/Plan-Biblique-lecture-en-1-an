@@ -1,0 +1,23 @@
+{
+  "s21": {
+    "jours": 365,
+    "chapitres_personnels": 1189,
+    "extraits_partages": 365,
+    "longueur_max_extrait": 8,
+    "semaines_thematiques": 52
+  },
+  "lsg": {
+    "jours": 365,
+    "chapitres_personnels": 1189,
+    "extraits_partages": 365,
+    "longueur_max_extrait": 8,
+    "semaines_thematiques": 52
+  },
+  "pdv": {
+    "jours": 365,
+    "chapitres_personnels": 1189,
+    "extraits_partages": 365,
+    "longueur_max_extrait": 8,
+    "semaines_thematiques": 52
+  }
+}

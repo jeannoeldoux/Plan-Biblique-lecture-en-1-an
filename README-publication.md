@@ -31,3 +31,5 @@ Version 2026.10.03.22 : publier aussi reminders.js, les douze pages des plans, t
 
 
 Version 2026.10.03.24 : sept plans, trois versions, 21 parcours. Publier tous les fichiers à la même adresse GitHub Pages. Les douze parcours précédents et leurs clés de suivi sont conservés. Ne pas renommer ni déplacer les pages précédentes. Chaque nouveau parcours possède un espace de suivi distinct. Voir methode-nouveaux-plans.html pour les précisions chronologiques, les extraits en parallèle et les 52 pauses.
+
+Version 2026.10.03.25 : huit plans, trois versions, 24 parcours. Publier aussi les trois pages plan-famille*.html, methode-famille.html et tous les fichiers actualisés. La lecture personnelle couvre la Bible entière ; les courts extraits et questions servent au temps partagé. Les 21 parcours précédents et leurs clés de suivi sont conservés.
