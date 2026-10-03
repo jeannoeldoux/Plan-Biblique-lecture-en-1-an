@@ -1,0 +1,1522 @@
+{
+  "jours": 365,
+  "semaines": 52,
+  "jours_bilan": 1,
+  "lecture_suivie": {
+    "chapitres": 1189,
+    "versets": 31169,
+    "omissions": 0,
+    "doublons": 0
+  },
+  "relectures_complementaires": true,
+  "semaines_et_references": [
+    {
+      "theme": "Création",
+      "anchors": [
+        {
+          "title": "Genèse 1",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/GEN/1-697d1b3f7ee0b7ffbe598de135e67f30.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/GEN.1.S21",
+          "readingRef": "Genèse 1:1–5",
+          "firstVerse": 1,
+          "lastVerse": 5
+        },
+        {
+          "title": "Psaumes 104",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/104-067fb7826dce8ba1c5260acfc4d3d0b8.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.104.S21",
+          "readingRef": "Psaumes 104:24–30",
+          "firstVerse": 24,
+          "lastVerse": 30
+        },
+        {
+          "title": "Jean 1",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/JHN/1-fd50f74b8c1bd8288e22ad4bddbde4a5.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/JHN.1.S21",
+          "readingRef": "Jean 1:1–5",
+          "firstVerse": 1,
+          "lastVerse": 5
+        }
+      ]
+    },
+    {
+      "theme": "Image de Dieu et dignité humaine",
+      "anchors": [
+        {
+          "title": "Genèse 1",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/GEN/1-697d1b3f7ee0b7ffbe598de135e67f30.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/GEN.1.S21",
+          "readingRef": "Genèse 1:26–31",
+          "firstVerse": 26,
+          "lastVerse": 31
+        },
+        {
+          "title": "Psaumes 8",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/8-9aa47cb5023021f08bcd2a4f4bd0dc40.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.8.S21",
+          "readingRef": "Psaumes 8:4–10",
+          "firstVerse": 4,
+          "lastVerse": 10
+        },
+        {
+          "title": "Jacques 3",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/JAS/3-97e6930f3c50b2c303b42ed5e36884ea.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/JAS.3.S21",
+          "readingRef": "Jacques 3:8–12",
+          "firstVerse": 8,
+          "lastVerse": 12
+        }
+      ]
+    },
+    {
+      "theme": "Rupture et péché",
+      "anchors": [
+        {
+          "title": "Genèse 3",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/GEN/3-4037397aed309802370d76086e8bc9f0.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/GEN.3.S21",
+          "readingRef": "Genèse 3:1–13",
+          "firstVerse": 1,
+          "lastVerse": 13
+        },
+        {
+          "title": "Psaumes 51",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/51-2b9f1135ace7f75e50d5e8e6929e5b2f.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.51.S21",
+          "readingRef": "Psaumes 51:3–11",
+          "firstVerse": 3,
+          "lastVerse": 11
+        },
+        {
+          "title": "Romains 5",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/ROM/5-ea2ea8891cd02b9fe44426bf9161c4df.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/ROM.5.S21",
+          "readingRef": "Romains 5:12–19",
+          "firstVerse": 12,
+          "lastVerse": 19
+        }
+      ]
+    },
+    {
+      "theme": "Grâce et premiers recommencements",
+      "anchors": [
+        {
+          "title": "Genèse 9",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/GEN/9-726f4a3799761182679f91477718b62d.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/GEN.9.S21",
+          "readingRef": "Genèse 9:8–17",
+          "firstVerse": 8,
+          "lastVerse": 17
+        },
+        {
+          "title": "Psaumes 103",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/103-af09ad81457c692e4eb0838ff74bad9a.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.103.S21",
+          "readingRef": "Psaumes 103:8–14",
+          "firstVerse": 8,
+          "lastVerse": 14
+        },
+        {
+          "title": "Éphésiens 2",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/EPH/2-913bcc59b927f3def522d9ef043557dd.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/EPH.2.S21",
+          "readingRef": "Éphésiens 2:1–10",
+          "firstVerse": 1,
+          "lastVerse": 10
+        }
+      ]
+    },
+    {
+      "theme": "Appel et promesse",
+      "anchors": [
+        {
+          "title": "Genèse 12",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/GEN/12-186816acfb64ae0ac0bb3efaa43d36cd.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/GEN.12.S21",
+          "readingRef": "Genèse 12:1–9",
+          "firstVerse": 1,
+          "lastVerse": 9
+        },
+        {
+          "title": "Psaumes 105",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/105-77026c67c72085ca2f5213bbfef61009.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.105.S21",
+          "readingRef": "Psaumes 105:1–11",
+          "firstVerse": 1,
+          "lastVerse": 11
+        },
+        {
+          "title": "Galates 3",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/GAL/3-e7a03590e7ced0473d644e4916fc349b.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/GAL.3.S21",
+          "readingRef": "Galates 3:6–14",
+          "firstVerse": 6,
+          "lastVerse": 14
+        }
+      ]
+    },
+    {
+      "theme": "Foi et confiance",
+      "anchors": [
+        {
+          "title": "Genèse 15",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/GEN/15-45513120700dd8f24cd6853edfa9dfb1.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/GEN.15.S21",
+          "readingRef": "Genèse 15:1–6",
+          "firstVerse": 1,
+          "lastVerse": 6
+        },
+        {
+          "title": "Psaumes 27",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/27-6ca6ce52e9946266eb25e018dad4db49.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.27.S21",
+          "readingRef": "Psaumes 27:1–6",
+          "firstVerse": 1,
+          "lastVerse": 6
+        },
+        {
+          "title": "Hébreux 11",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/HEB/11-01b76425059d9a4a84ce3846e4c78e44.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/HEB.11.S21",
+          "readingRef": "Hébreux 11:1–12",
+          "firstVerse": 1,
+          "lastVerse": 12
+        }
+      ]
+    },
+    {
+      "theme": "Providence au milieu de l’épreuve",
+      "anchors": [
+        {
+          "title": "Genèse 50",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/GEN/50-38c6df6c0d67e971661b629197a68ad4.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/GEN.50.S21",
+          "readingRef": "Genèse 50:15–21",
+          "firstVerse": 15,
+          "lastVerse": 21
+        },
+        {
+          "title": "Psaumes 121",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/121-0a9db42fec70d6db0e56c4ec2cac40f1.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.121.S21",
+          "readingRef": "Psaumes 121:1–8",
+          "firstVerse": 1,
+          "lastVerse": 8
+        },
+        {
+          "title": "Romains 8",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/ROM/8-2070bf4f9ea6282bb1244c5c9d2bfe42.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/ROM.8.S21",
+          "readingRef": "Romains 8:28–39",
+          "firstVerse": 28,
+          "lastVerse": 39
+        }
+      ]
+    },
+    {
+      "theme": "Délivrance",
+      "anchors": [
+        {
+          "title": "Exode 3",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/EXO/3-fad617f97aa0861368904ebd9fdd723e.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/EXO.3.S21",
+          "readingRef": "Exode 3:7–12",
+          "firstVerse": 7,
+          "lastVerse": 12
+        },
+        {
+          "title": "Psaumes 114",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/114-23e4a83c4ea46ff45395a0c04b8862f9.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.114.S21",
+          "readingRef": "Psaumes 114:1–8",
+          "firstVerse": 1,
+          "lastVerse": 8
+        },
+        {
+          "title": "Colossiens 1",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/COL/1-bff9bd3c2255acba0cfd17cd6a1c3681.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/COL.1.S21",
+          "readingRef": "Colossiens 1:12–14",
+          "firstVerse": 12,
+          "lastVerse": 14
+        }
+      ]
+    },
+    {
+      "theme": "Alliance",
+      "anchors": [
+        {
+          "title": "Exode 19",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/EXO/19-729f13875ad8c478ac8c9ce111f50913.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/EXO.19.S21",
+          "readingRef": "Exode 19:1–8",
+          "firstVerse": 1,
+          "lastVerse": 8
+        },
+        {
+          "title": "Psaumes 25",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/25-6e9ad8ceacef6f97bea3c3b246b938fe.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.25.S21",
+          "readingRef": "Psaumes 25:8–14",
+          "firstVerse": 8,
+          "lastVerse": 14
+        },
+        {
+          "title": "Luc 22",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/LUK/22-4853ff2f7ff3e657b8531996a3413669.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/LUK.22.S21",
+          "readingRef": "Luc 22:14–20",
+          "firstVerse": 14,
+          "lastVerse": 20
+        }
+      ]
+    },
+    {
+      "theme": "Loi et amour",
+      "anchors": [
+        {
+          "title": "Deutéronome 6",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/DEU/6-afe315d36d9d99afd73ac61612bdebbb.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/DEU.6.S21",
+          "readingRef": "Deutéronome 6:4–9",
+          "firstVerse": 4,
+          "lastVerse": 9
+        },
+        {
+          "title": "Psaumes 119",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/119-6fb55ca2819f1979c9af02d4e2e0db31.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.119.S21",
+          "readingRef": "Psaumes 119:97–104",
+          "firstVerse": 97,
+          "lastVerse": 104
+        },
+        {
+          "title": "Matthieu 22",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/MAT/22-1688824500509197f3feb5d9b3390323.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/MAT.22.S21",
+          "readingRef": "Matthieu 22:34–40",
+          "firstVerse": 34,
+          "lastVerse": 40
+        }
+      ]
+    },
+    {
+      "theme": "Sacrifice et pardon",
+      "anchors": [
+        {
+          "title": "Lévitique 16",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/LEV/16-3cfa7f85470366a4bdc1d4d22f8d16f5.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/LEV.16.S21",
+          "readingRef": "Lévitique 16:29–34",
+          "firstVerse": 29,
+          "lastVerse": 34
+        },
+        {
+          "title": "Psaumes 32",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/32-1b9493d6024c10439a1afe6145f408c5.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.32.S21",
+          "readingRef": "Psaumes 32:1–7",
+          "firstVerse": 1,
+          "lastVerse": 7
+        },
+        {
+          "title": "Hébreux 9",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/HEB/9-4e0e7ad53af6f70d23002c52b7332f4e.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/HEB.9.S21",
+          "readingRef": "Hébreux 9:11–15",
+          "firstVerse": 11,
+          "lastVerse": 15
+        }
+      ]
+    },
+    {
+      "theme": "Sainteté",
+      "anchors": [
+        {
+          "title": "Lévitique 19",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/LEV/19-d7b072196ac4378d37191d3e4c4ac8d4.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/LEV.19.S21",
+          "readingRef": "Lévitique 19:1–4",
+          "firstVerse": 1,
+          "lastVerse": 4
+        },
+        {
+          "title": "Psaumes 24",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/24-7fbddd03e98c39344e9f18dae4ecbff7.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.24.S21",
+          "readingRef": "Psaumes 24:1–6",
+          "firstVerse": 1,
+          "lastVerse": 6
+        },
+        {
+          "title": "1 Pierre 1",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/1PE/1-84ca9af78c0e84f5b1de155c4cd97260.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/1PE.1.S21",
+          "readingRef": "1 Pierre 1:13–21",
+          "firstVerse": 13,
+          "lastVerse": 21
+        }
+      ]
+    },
+    {
+      "theme": "Présence de Dieu",
+      "anchors": [
+        {
+          "title": "Exode 40",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/EXO/40-e736be3a307439ff5b2852b6a8ea67af.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/EXO.40.S21",
+          "readingRef": "Exode 40:34–38",
+          "firstVerse": 34,
+          "lastVerse": 38
+        },
+        {
+          "title": "Psaumes 139",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/139-1a9c68d4b2aa633407d7ada73dcff068.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.139.S21",
+          "readingRef": "Psaumes 139:1–12",
+          "firstVerse": 1,
+          "lastVerse": 12
+        },
+        {
+          "title": "Jean 14",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/JHN/14-0444da9c07c62b8918654773945fa9d9.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/JHN.14.S21",
+          "readingRef": "Jean 14:15–23",
+          "firstVerse": 15,
+          "lastVerse": 23
+        }
+      ]
+    },
+    {
+      "theme": "Désert et dépendance",
+      "anchors": [
+        {
+          "title": "Deutéronome 8",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/DEU/8-9da6686ee8559c07468ed2d923307c7f.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/DEU.8.S21",
+          "readingRef": "Deutéronome 8:1–10",
+          "firstVerse": 1,
+          "lastVerse": 10
+        },
+        {
+          "title": "Psaumes 63",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/63-65c1f508aac2268c9a7d7bed9bce609d.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.63.S21",
+          "readingRef": "Psaumes 63:2–9",
+          "firstVerse": 2,
+          "lastVerse": 9
+        },
+        {
+          "title": "Matthieu 4",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/MAT/4-45bc804f7d4985842bae3e4f3d9f8cbd.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/MAT.4.S21",
+          "readingRef": "Matthieu 4:1–11",
+          "firstVerse": 1,
+          "lastVerse": 11
+        }
+      ]
+    },
+    {
+      "theme": "Fidélité et choix",
+      "anchors": [
+        {
+          "title": "Josué 24",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/JOS/24-db863146c58da9558169ed6af38f8101.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/JOS.24.S21",
+          "readingRef": "Josué 24:14–24",
+          "firstVerse": 14,
+          "lastVerse": 24
+        },
+        {
+          "title": "Psaumes 1",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/1-896f63ffd321edc47e4781756ba357e4.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.1.S21",
+          "readingRef": "Psaumes 1:1–6",
+          "firstVerse": 1,
+          "lastVerse": 6
+        },
+        {
+          "title": "Jean 15",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/JHN/15-f63166b02c4c782e42967db0bcf278e0.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/JHN.15.S21",
+          "readingRef": "Jean 15:1–11",
+          "firstVerse": 1,
+          "lastVerse": 11
+        }
+      ]
+    },
+    {
+      "theme": "Repos et héritage",
+      "anchors": [
+        {
+          "title": "Deutéronome 5",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/DEU/5-f8b363a21812eb95097791d0a664126b.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/DEU.5.S21",
+          "readingRef": "Deutéronome 5:12–15",
+          "firstVerse": 12,
+          "lastVerse": 15
+        },
+        {
+          "title": "Psaumes 95",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/95-acadb6753f5d23eff60963ee9e162420.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.95.S21",
+          "readingRef": "Psaumes 95:1–11",
+          "firstVerse": 1,
+          "lastVerse": 11
+        },
+        {
+          "title": "Hébreux 4",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/HEB/4-eabeebc1156db3a6bc8ba82cdf430811.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/HEB.4.S21",
+          "readingRef": "Hébreux 4:1–11",
+          "firstVerse": 1,
+          "lastVerse": 11
+        }
+      ]
+    },
+    {
+      "theme": "Rédemption et fidélité",
+      "anchors": [
+        {
+          "title": "Ruth 4",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/RUT/4-4a33236dfcc49038fd7fa38034db723c.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/RUT.4.S21",
+          "readingRef": "Ruth 4:9–17",
+          "firstVerse": 9,
+          "lastVerse": 17
+        },
+        {
+          "title": "Psaumes 130",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/130-efc1dc282663f89ccabb3be8879d2b0d.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.130.S21",
+          "readingRef": "Psaumes 130:1–8",
+          "firstVerse": 1,
+          "lastVerse": 8
+        },
+        {
+          "title": "Éphésiens 1",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/EPH/1-6a39f350c3e9aff3e4cbaae12e883933.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/EPH.1.S21",
+          "readingRef": "Éphésiens 1:3–14",
+          "firstVerse": 3,
+          "lastVerse": 14
+        }
+      ]
+    },
+    {
+      "theme": "Royauté et service",
+      "anchors": [
+        {
+          "title": "1 Samuel 8",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/1SA/8-47ea905e32ecaa46505a72673f0667cd.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/1SA.8.S21",
+          "readingRef": "1 Samuel 8:10–22",
+          "firstVerse": 10,
+          "lastVerse": 22
+        },
+        {
+          "title": "Psaumes 72",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/72-082699f7e0e39f0e7f22101c9397495b.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.72.S21",
+          "readingRef": "Psaumes 72:1–14",
+          "firstVerse": 1,
+          "lastVerse": 14
+        },
+        {
+          "title": "Marc 10",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/MRK/10-b2c22f58c7e9dc3143d4e72fc2185b0d.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/MRK.10.S21",
+          "readingRef": "Marc 10:35–45",
+          "firstVerse": 35,
+          "lastVerse": 45
+        }
+      ]
+    },
+    {
+      "theme": "Promesse à David",
+      "anchors": [
+        {
+          "title": "2 Samuel 7",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/2SA/7-7728e2b4061d9a5d844193dd7f2b7b64.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/2SA.7.S21",
+          "readingRef": "2 Samuel 7:8–16",
+          "firstVerse": 8,
+          "lastVerse": 16
+        },
+        {
+          "title": "Psaumes 89",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/89-e2f7a279ed20e3c8569ddbbb34747cc1.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.89.S21",
+          "readingRef": "Psaumes 89:20–30",
+          "firstVerse": 20,
+          "lastVerse": 30
+        },
+        {
+          "title": "Luc 1",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/LUK/1-5d193b2e628c53f227bcfdca551895ed.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/LUK.1.S21",
+          "readingRef": "Luc 1:26–33",
+          "firstVerse": 26,
+          "lastVerse": 33
+        }
+      ]
+    },
+    {
+      "theme": "Temple et habitation de Dieu",
+      "anchors": [
+        {
+          "title": "1 Rois 8",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/1KI/8-e53ebd75304c28e4fe3a691805943428.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/1KI.8.S21",
+          "readingRef": "1 Rois 8:27–30",
+          "firstVerse": 27,
+          "lastVerse": 30
+        },
+        {
+          "title": "Psaumes 84",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/84-22232c735803feed9177ba6df7c00718.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.84.S21",
+          "readingRef": "Psaumes 84:2–8",
+          "firstVerse": 2,
+          "lastVerse": 8
+        },
+        {
+          "title": "Jean 2",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/JHN/2-635f21a1d0cc67beb8934384455f4756.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/JHN.2.S21",
+          "readingRef": "Jean 2:13–22",
+          "firstVerse": 13,
+          "lastVerse": 22
+        }
+      ]
+    },
+    {
+      "theme": "Louange et reconnaissance",
+      "anchors": [
+        {
+          "title": "1 Chroniques 16",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/1CH/16-2c7d5390378771b946ec28404558a24d.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/1CH.16.S21",
+          "readingRef": "1 Chroniques 16:8–14",
+          "firstVerse": 8,
+          "lastVerse": 14
+        },
+        {
+          "title": "Psaumes 100",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/100-f344862d13c6c1ea4c6807713bef795e.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.100.S21",
+          "readingRef": "Psaumes 100:1–5",
+          "firstVerse": 1,
+          "lastVerse": 5
+        },
+        {
+          "title": "Colossiens 3",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/COL/3-6aca3e1f67015891452a0d02f301b4f1.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/COL.3.S21",
+          "readingRef": "Colossiens 3:12–17",
+          "firstVerse": 12,
+          "lastVerse": 17
+        }
+      ]
+    },
+    {
+      "theme": "Prière et lamentation",
+      "anchors": [
+        {
+          "title": "Lamentations 3",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/LAM/3-59545785097b18f07496d57c49c27e32.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/LAM.3.S21",
+          "readingRef": "Lamentations 3:19–26",
+          "firstVerse": 19,
+          "lastVerse": 26
+        },
+        {
+          "title": "Psaumes 13",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/13-ea06edb979b0caa7d556e61aed2a3948.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.13.S21",
+          "readingRef": "Psaumes 13:2–6",
+          "firstVerse": 2,
+          "lastVerse": 6
+        },
+        {
+          "title": "Philippiens 4",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PHP/4-0b901d4836ad3a194b22b700e0229c5e.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PHP.4.S21",
+          "readingRef": "Philippiens 4:4–9",
+          "firstVerse": 4,
+          "lastVerse": 9
+        }
+      ]
+    },
+    {
+      "theme": "Sagesse et crainte de Dieu",
+      "anchors": [
+        {
+          "title": "Proverbes 1",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PRO/1-914af91faede118fc075d60f38f7e7ef.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PRO.1.S21",
+          "readingRef": "Proverbes 1:1–7",
+          "firstVerse": 1,
+          "lastVerse": 7
+        },
+        {
+          "title": "Psaumes 111",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/111-0c46dbd292b58ff71ad12e2423e34797.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.111.S21",
+          "readingRef": "Psaumes 111:1–10",
+          "firstVerse": 1,
+          "lastVerse": 10
+        },
+        {
+          "title": "Jacques 1",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/JAS/1-6cab9e7042d48d9c9cd9e74b87189f18.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/JAS.1.S21",
+          "readingRef": "Jacques 1:2–8",
+          "firstVerse": 2,
+          "lastVerse": 8
+        }
+      ]
+    },
+    {
+      "theme": "Parole et discernement",
+      "anchors": [
+        {
+          "title": "Proverbes 3",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PRO/3-2dea1bdd4e82140db3a534144939deec.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PRO.3.S21",
+          "readingRef": "Proverbes 3:1–12",
+          "firstVerse": 1,
+          "lastVerse": 12
+        },
+        {
+          "title": "Psaumes 119",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/119-6fb55ca2819f1979c9af02d4e2e0db31.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.119.S21",
+          "readingRef": "Psaumes 119:105–112",
+          "firstVerse": 105,
+          "lastVerse": 112
+        },
+        {
+          "title": "2 Timothée 3",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/2TI/3-66117c08f9f686ba23e3abfb1a3a00e8.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/2TI.3.S21",
+          "readingRef": "2 Timothée 3:14–17",
+          "firstVerse": 14,
+          "lastVerse": 17
+        }
+      ]
+    },
+    {
+      "theme": "Justice et pauvres",
+      "anchors": [
+        {
+          "title": "Amos 5",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/AMO/5-e54fa3ebe00237c5cc3ffe98b47d91d9.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/AMO.5.S21",
+          "readingRef": "Amos 5:21–24",
+          "firstVerse": 21,
+          "lastVerse": 24
+        },
+        {
+          "title": "Psaumes 146",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/146-26c80d0569dc2d716ce4c6ed3213733d.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.146.S21",
+          "readingRef": "Psaumes 146:5–10",
+          "firstVerse": 5,
+          "lastVerse": 10
+        },
+        {
+          "title": "Jacques 2",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/JAS/2-ba397bdcebd6ea6665fc33d6e64f5686.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/JAS.2.S21",
+          "readingRef": "Jacques 2:1–9",
+          "firstVerse": 1,
+          "lastVerse": 9
+        }
+      ]
+    },
+    {
+      "theme": "Jugement et responsabilité",
+      "anchors": [
+        {
+          "title": "Ézéchiel 18",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/EZK/18-98d989da50e3f421330130a9d9c0dc81.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/EZK.18.S21",
+          "readingRef": "Ézéchiel 18:21–32",
+          "firstVerse": 21,
+          "lastVerse": 32
+        },
+        {
+          "title": "Psaumes 96",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/96-43da6534e0e91080730715e32e60f2da.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.96.S21",
+          "readingRef": "Psaumes 96:10–13",
+          "firstVerse": 10,
+          "lastVerse": 13
+        },
+        {
+          "title": "Romains 2",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/ROM/2-c446a24961e74ed65505320012f8ddfd.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/ROM.2.S21",
+          "readingRef": "Romains 2:1–11",
+          "firstVerse": 1,
+          "lastVerse": 11
+        }
+      ]
+    },
+    {
+      "theme": "Idolâtrie et cœur partagé",
+      "anchors": [
+        {
+          "title": "Ésaïe 44",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/ISA/44-e6399e734a066e44132286b241feec81.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/ISA.44.S21",
+          "readingRef": "Ésaïe 44:9–20",
+          "firstVerse": 9,
+          "lastVerse": 20
+        },
+        {
+          "title": "Psaumes 115",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/115-610e9f8e36b8b56e5e498741e0eb6dfa.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.115.S21",
+          "readingRef": "Psaumes 115:1–9",
+          "firstVerse": 1,
+          "lastVerse": 9
+        },
+        {
+          "title": "1 Corinthiens 10",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/1CO/10-b4ce24c34b8ee455762bc03ccc5c8603.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/1CO.10.S21",
+          "readingRef": "1 Corinthiens 10:14–22",
+          "firstVerse": 14,
+          "lastVerse": 22
+        }
+      ]
+    },
+    {
+      "theme": "Repentance et miséricorde",
+      "anchors": [
+        {
+          "title": "Joël 2",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/JOL/2-79fe91cb5569b0757c95f7cf08fa6306.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/JOL.2.S21",
+          "readingRef": "Joël 2:12–17",
+          "firstVerse": 12,
+          "lastVerse": 17
+        },
+        {
+          "title": "Psaumes 51",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/51-2b9f1135ace7f75e50d5e8e6929e5b2f.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.51.S21",
+          "readingRef": "Psaumes 51:12–19",
+          "firstVerse": 12,
+          "lastVerse": 19
+        },
+        {
+          "title": "Luc 15",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/LUK/15-987a34e31c4582abd8197afa10cd8704.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/LUK.15.S21",
+          "readingRef": "Luc 15:11–24",
+          "firstVerse": 11,
+          "lastVerse": 24
+        }
+      ]
+    },
+    {
+      "theme": "Exil et espérance",
+      "anchors": [
+        {
+          "title": "Jérémie 29",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/JER/29-e0a8306d5af3df8b2c4237ff9b543203.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/JER.29.S21",
+          "readingRef": "Jérémie 29:4–14",
+          "firstVerse": 4,
+          "lastVerse": 14
+        },
+        {
+          "title": "Psaumes 137",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/137-0946beb80d0b22fe0fd4e996bf5ef41e.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.137.S21",
+          "readingRef": "Psaumes 137:1–6",
+          "firstVerse": 1,
+          "lastVerse": 6
+        },
+        {
+          "title": "1 Pierre 2",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/1PE/2-93e21d4ae0dd6adf37e237aee6c5f1a7.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/1PE.2.S21",
+          "readingRef": "1 Pierre 2:9–12",
+          "firstVerse": 9,
+          "lastVerse": 12
+        }
+      ]
+    },
+    {
+      "theme": "Restauration",
+      "anchors": [
+        {
+          "title": "Ézéchiel 37",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/EZK/37-62de3d871f43c53b7b7c856df8db4b11.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/EZK.37.S21",
+          "readingRef": "Ézéchiel 37:1–14",
+          "firstVerse": 1,
+          "lastVerse": 14
+        },
+        {
+          "title": "Psaumes 126",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/126-db4c55eadb78315293221e5485e071da.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.126.S21",
+          "readingRef": "Psaumes 126:1–6",
+          "firstVerse": 1,
+          "lastVerse": 6
+        },
+        {
+          "title": "2 Corinthiens 5",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/2CO/5-e14b4ebdfc21849c1dbef227fb7bb4ba.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/2CO.5.S21",
+          "readingRef": "2 Corinthiens 5:17–21",
+          "firstVerse": 17,
+          "lastVerse": 21
+        }
+      ]
+    },
+    {
+      "theme": "Nouvelle alliance",
+      "anchors": [
+        {
+          "title": "Jérémie 31",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/JER/31-5e3fccef83d1308c60d920f2e23d024f.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/JER.31.S21",
+          "readingRef": "Jérémie 31:31–34",
+          "firstVerse": 31,
+          "lastVerse": 34
+        },
+        {
+          "title": "Psaumes 40",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/40-46c0688bbb09a260b7760ff3613b5ad6.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.40.S21",
+          "readingRef": "Psaumes 40:7–11",
+          "firstVerse": 7,
+          "lastVerse": 11
+        },
+        {
+          "title": "Hébreux 8",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/HEB/8-afc06618b7d80a286d9afb3a9b75ecc3.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/HEB.8.S21",
+          "readingRef": "Hébreux 8:6–13",
+          "firstVerse": 6,
+          "lastVerse": 13
+        }
+      ]
+    },
+    {
+      "theme": "Retour et reconstruction",
+      "anchors": [
+        {
+          "title": "Néhémie 2",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/NEH/2-d1a81e7c9c68a53d6a03f3bc0ead13c1.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/NEH.2.S21",
+          "readingRef": "Néhémie 2:17–20",
+          "firstVerse": 17,
+          "lastVerse": 20
+        },
+        {
+          "title": "Psaumes 127",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/127-a5156959656ace0110829d339b91e4bb.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.127.S21",
+          "readingRef": "Psaumes 127:1–5",
+          "firstVerse": 1,
+          "lastVerse": 5
+        },
+        {
+          "title": "Éphésiens 2",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/EPH/2-913bcc59b927f3def522d9ef043557dd.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/EPH.2.S21",
+          "readingRef": "Éphésiens 2:19–22",
+          "firstVerse": 19,
+          "lastVerse": 22
+        }
+      ]
+    },
+    {
+      "theme": "Messie et espérance",
+      "anchors": [
+        {
+          "title": "Ésaïe 9",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/ISA/9-f54a1d9a4c85e1b1747548d0facdee81.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/ISA.9.S21",
+          "readingRef": "Ésaïe 9:1–6",
+          "firstVerse": 1,
+          "lastVerse": 6
+        },
+        {
+          "title": "Psaumes 2",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/2-bee85430516788cf83bb7a3cbc0b33a1.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.2.S21",
+          "readingRef": "Psaumes 2:1–12",
+          "firstVerse": 1,
+          "lastVerse": 12
+        },
+        {
+          "title": "Matthieu 1",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/MAT/1-7b96dfd63d32741290ccea4b21612304.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/MAT.1.S21",
+          "readingRef": "Matthieu 1:18–25",
+          "firstVerse": 18,
+          "lastVerse": 25
+        }
+      ]
+    },
+    {
+      "theme": "Le serviteur souffrant",
+      "anchors": [
+        {
+          "title": "Ésaïe 53",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/ISA/53-bfe3dddf5ad94d343e4bc6dab6fe01c9.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/ISA.53.S21",
+          "readingRef": "Ésaïe 53:1–12",
+          "firstVerse": 1,
+          "lastVerse": 12
+        },
+        {
+          "title": "Psaumes 22",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/22-e9b67d40cd7719d596e3740921a78a96.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.22.S21",
+          "readingRef": "Psaumes 22:2–12",
+          "firstVerse": 2,
+          "lastVerse": 12
+        },
+        {
+          "title": "1 Pierre 2",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/1PE/2-93e21d4ae0dd6adf37e237aee6c5f1a7.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/1PE.2.S21",
+          "readingRef": "1 Pierre 2:21–25",
+          "firstVerse": 21,
+          "lastVerse": 25
+        }
+      ]
+    },
+    {
+      "theme": "Incarnation",
+      "anchors": [
+        {
+          "title": "Michée 5",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/MIC/5-bd56b9d6d2d27bdc0f4f604bf043f1da.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/MIC.5.S21",
+          "readingRef": "Michée 5:1–4",
+          "firstVerse": 1,
+          "lastVerse": 4
+        },
+        {
+          "title": "Psaumes 85",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/85-ac28e41f9415de9f8139f33c9027c12e.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.85.S21",
+          "readingRef": "Psaumes 85:9–14",
+          "firstVerse": 9,
+          "lastVerse": 14
+        },
+        {
+          "title": "Jean 1",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/JHN/1-fd50f74b8c1bd8288e22ad4bddbde4a5.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/JHN.1.S21",
+          "readingRef": "Jean 1:14–18",
+          "firstVerse": 14,
+          "lastVerse": 18
+        }
+      ]
+    },
+    {
+      "theme": "Royaume de Dieu",
+      "anchors": [
+        {
+          "title": "Daniel 7",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/DAN/7-019aba2af94cf5508c0d0cc6695e1014.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/DAN.7.S21",
+          "readingRef": "Daniel 7:13–14",
+          "firstVerse": 13,
+          "lastVerse": 14
+        },
+        {
+          "title": "Psaumes 145",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/145-c445b146269d73e111e6d6bc534794db.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.145.S21",
+          "readingRef": "Psaumes 145:8–13",
+          "firstVerse": 8,
+          "lastVerse": 13
+        },
+        {
+          "title": "Marc 1",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/MRK/1-5d678a13727205070e1e369a35f7d2c4.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/MRK.1.S21",
+          "readingRef": "Marc 1:14–20",
+          "firstVerse": 14,
+          "lastVerse": 20
+        }
+      ]
+    },
+    {
+      "theme": "Compassion et guérison",
+      "anchors": [
+        {
+          "title": "Ésaïe 35",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/ISA/35-ca4981d143cb4d3be7bbadcf44c7ea80.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/ISA.35.S21",
+          "readingRef": "Ésaïe 35:1–10",
+          "firstVerse": 1,
+          "lastVerse": 10
+        },
+        {
+          "title": "Psaumes 147",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/147-9a3ce38734deefaa0d52da940554c578.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.147.S21",
+          "readingRef": "Psaumes 147:1–6",
+          "firstVerse": 1,
+          "lastVerse": 6
+        },
+        {
+          "title": "Matthieu 9",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/MAT/9-ef55b0f9ec0e8d77a09bf215fa013dc6.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/MAT.9.S21",
+          "readingRef": "Matthieu 9:35–38",
+          "firstVerse": 35,
+          "lastVerse": 38
+        }
+      ]
+    },
+    {
+      "theme": "Pardon et réconciliation",
+      "anchors": [
+        {
+          "title": "Genèse 33",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/GEN/33-5daa2bed2f70bb53fda33f08e8cb6598.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/GEN.33.S21",
+          "readingRef": "Genèse 33:1–11",
+          "firstVerse": 1,
+          "lastVerse": 11
+        },
+        {
+          "title": "Psaumes 103",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/103-af09ad81457c692e4eb0838ff74bad9a.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.103.S21",
+          "readingRef": "Psaumes 103:1–7",
+          "firstVerse": 1,
+          "lastVerse": 7
+        },
+        {
+          "title": "Matthieu 18",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/MAT/18-aee58a68bba949398dd079f67338da78.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/MAT.18.S21",
+          "readingRef": "Matthieu 18:21–35",
+          "firstVerse": 21,
+          "lastVerse": 35
+        }
+      ]
+    },
+    {
+      "theme": "Croix et salut",
+      "anchors": [
+        {
+          "title": "Nombres 21",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/NUM/21-e921cf0e0af5fa109ef87e2510b6a415.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/NUM.21.S21",
+          "readingRef": "Nombres 21:4–9",
+          "firstVerse": 4,
+          "lastVerse": 9
+        },
+        {
+          "title": "Psaumes 22",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/22-e9b67d40cd7719d596e3740921a78a96.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.22.S21",
+          "readingRef": "Psaumes 22:23–32",
+          "firstVerse": 23,
+          "lastVerse": 32
+        },
+        {
+          "title": "Jean 3",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/JHN/3-6640459b0f802255938fd2aa1949ddaa.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/JHN.3.S21",
+          "readingRef": "Jean 3:14–21",
+          "firstVerse": 14,
+          "lastVerse": 21
+        }
+      ]
+    },
+    {
+      "theme": "Résurrection",
+      "anchors": [
+        {
+          "title": "Ésaïe 25",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/ISA/25-177c9dfe89ebcf5d3f917a8310ec787f.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/ISA.25.S21",
+          "readingRef": "Ésaïe 25:6–9",
+          "firstVerse": 6,
+          "lastVerse": 9
+        },
+        {
+          "title": "Psaumes 16",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/16-4d9c2666d7be49b82bc6d5ee4a954510.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.16.S21",
+          "readingRef": "Psaumes 16:8–11",
+          "firstVerse": 8,
+          "lastVerse": 11
+        },
+        {
+          "title": "1 Corinthiens 15",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/1CO/15-024862de22c65fc104ef3fa03a33bcdd.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/1CO.15.S21",
+          "readingRef": "1 Corinthiens 15:12–22",
+          "firstVerse": 12,
+          "lastVerse": 22
+        }
+      ]
+    },
+    {
+      "theme": "Esprit et vie nouvelle",
+      "anchors": [
+        {
+          "title": "Ézéchiel 36",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/EZK/36-5b96f7ecae2d8b6782c503b3851cca85.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/EZK.36.S21",
+          "readingRef": "Ézéchiel 36:25–28",
+          "firstVerse": 25,
+          "lastVerse": 28
+        },
+        {
+          "title": "Psaumes 143",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/143-7f9506b507e872aaed54b15f6df522d1.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.143.S21",
+          "readingRef": "Psaumes 143:8–10",
+          "firstVerse": 8,
+          "lastVerse": 10
+        },
+        {
+          "title": "Romains 8",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/ROM/8-2070bf4f9ea6282bb1244c5c9d2bfe42.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/ROM.8.S21",
+          "readingRef": "Romains 8:1–11",
+          "firstVerse": 1,
+          "lastVerse": 11
+        }
+      ]
+    },
+    {
+      "theme": "Pentecôte et témoignage",
+      "anchors": [
+        {
+          "title": "Joël 3",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/JOL/3-7dd7f5ecc0fa5881ae32dd5661de2353.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/JOL.3.S21",
+          "readingRef": "Joël 3:1–5",
+          "firstVerse": 1,
+          "lastVerse": 5
+        },
+        {
+          "title": "Psaumes 67",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/67-be230358e36f4c70c03a8cdddd308a61.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.67.S21",
+          "readingRef": "Psaumes 67:2–8",
+          "firstVerse": 2,
+          "lastVerse": 8
+        },
+        {
+          "title": "Actes 2",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/ACT/2-da89eec517711d5f8e08250b58be1cd4.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/ACT.2.S21",
+          "readingRef": "Actes 2:1–13",
+          "firstVerse": 1,
+          "lastVerse": 13
+        }
+      ]
+    },
+    {
+      "theme": "Mission et nations",
+      "anchors": [
+        {
+          "title": "Ésaïe 49",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/ISA/49-dee6b2092151fdb1c57492ba243331c9.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/ISA.49.S21",
+          "readingRef": "Ésaïe 49:5–6",
+          "firstVerse": 5,
+          "lastVerse": 6
+        },
+        {
+          "title": "Psaumes 96",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/96-43da6534e0e91080730715e32e60f2da.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.96.S21",
+          "readingRef": "Psaumes 96:1–9",
+          "firstVerse": 1,
+          "lastVerse": 9
+        },
+        {
+          "title": "Matthieu 28",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/MAT/28-72340c608eab1d509aac4665a76702ba.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/MAT.28.S21",
+          "readingRef": "Matthieu 28:16–20",
+          "firstVerse": 16,
+          "lastVerse": 20
+        }
+      ]
+    },
+    {
+      "theme": "Église et communion",
+      "anchors": [
+        {
+          "title": "Exode 19",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/EXO/19-729f13875ad8c478ac8c9ce111f50913.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/EXO.19.S21",
+          "readingRef": "Exode 19:5–6",
+          "firstVerse": 5,
+          "lastVerse": 6
+        },
+        {
+          "title": "Psaumes 133",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/133-df388e7567fe8b26b11ba180757352d1.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.133.S21",
+          "readingRef": "Psaumes 133:1–3",
+          "firstVerse": 1,
+          "lastVerse": 3
+        },
+        {
+          "title": "Actes 2",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/ACT/2-da89eec517711d5f8e08250b58be1cd4.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/ACT.2.S21",
+          "readingRef": "Actes 2:42–47",
+          "firstVerse": 42,
+          "lastVerse": 47
+        }
+      ]
+    },
+    {
+      "theme": "Unité et diversité",
+      "anchors": [
+        {
+          "title": "Ésaïe 56",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/ISA/56-fbcd17ba7fe396078167decea61df52a.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/ISA.56.S21",
+          "readingRef": "Ésaïe 56:3–8",
+          "firstVerse": 3,
+          "lastVerse": 8
+        },
+        {
+          "title": "Psaumes 117",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/117-e7708f18f18f72c3d8ebe98257d5f1aa.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.117.S21",
+          "readingRef": "Psaumes 117:1–2",
+          "firstVerse": 1,
+          "lastVerse": 2
+        },
+        {
+          "title": "1 Corinthiens 12",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/1CO/12-0990f41d134b15f439cd4160ba33743a.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/1CO.12.S21",
+          "readingRef": "1 Corinthiens 12:12–27",
+          "firstVerse": 12,
+          "lastVerse": 27
+        }
+      ]
+    },
+    {
+      "theme": "Dons et service",
+      "anchors": [
+        {
+          "title": "Exode 31",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/EXO/31-9df6836e8f48bb4272eb49f2bc4595a6.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/EXO.31.S21",
+          "readingRef": "Exode 31:1–6",
+          "firstVerse": 1,
+          "lastVerse": 6
+        },
+        {
+          "title": "Psaumes 90",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/90-4c67078b0cf9e1caa7eb0398b32c27e6.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.90.S21",
+          "readingRef": "Psaumes 90:14–17",
+          "firstVerse": 14,
+          "lastVerse": 17
+        },
+        {
+          "title": "Romains 12",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/ROM/12-9011324a34532774450abca862a1a2f6.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/ROM.12.S21",
+          "readingRef": "Romains 12:3–13",
+          "firstVerse": 3,
+          "lastVerse": 13
+        }
+      ]
+    },
+    {
+      "theme": "Amour fraternel",
+      "anchors": [
+        {
+          "title": "Lévitique 19",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/LEV/19-d7b072196ac4378d37191d3e4c4ac8d4.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/LEV.19.S21",
+          "readingRef": "Lévitique 19:9–18",
+          "firstVerse": 9,
+          "lastVerse": 18
+        },
+        {
+          "title": "Psaumes 15",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/15-3bc297a00e9430d8fe2a77b3aaffe35e.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.15.S21",
+          "readingRef": "Psaumes 15:1–5",
+          "firstVerse": 1,
+          "lastVerse": 5
+        },
+        {
+          "title": "1 Jean 4",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/1JN/4-b24e1eabe8c531264ede4c5b8688a29f.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/1JN.4.S21",
+          "readingRef": "1 Jean 4:7–21",
+          "firstVerse": 7,
+          "lastVerse": 21
+        }
+      ]
+    },
+    {
+      "theme": "Persévérance et combat de la foi",
+      "anchors": [
+        {
+          "title": "Habacuc 3",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/HAB/3-829ef2e532312ddeb261a85ef1dcdfc7.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/HAB.3.S21",
+          "readingRef": "Habacuc 3:17–19",
+          "firstVerse": 17,
+          "lastVerse": 19
+        },
+        {
+          "title": "Psaumes 46",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/46-a48dce0234bf56a5211cbd049a256c25.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.46.S21",
+          "readingRef": "Psaumes 46:2–12",
+          "firstVerse": 2,
+          "lastVerse": 12
+        },
+        {
+          "title": "Hébreux 12",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/HEB/12-d9144adc29d7ed302aad2c5c50fa2a7b.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/HEB.12.S21",
+          "readingRef": "Hébreux 12:1–13",
+          "firstVerse": 1,
+          "lastVerse": 13
+        }
+      ]
+    },
+    {
+      "theme": "Retour du Christ",
+      "anchors": [
+        {
+          "title": "Daniel 12",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/DAN/12-325ae2570b2bdd9c30677eaf355b4c71.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/DAN.12.S21",
+          "readingRef": "Daniel 12:1–3",
+          "firstVerse": 1,
+          "lastVerse": 3
+        },
+        {
+          "title": "Psaumes 98",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/98-f6b2c972d7090dc8db498850496e82fd.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.98.S21",
+          "readingRef": "Psaumes 98:1–9",
+          "firstVerse": 1,
+          "lastVerse": 9
+        },
+        {
+          "title": "1 Thessaloniciens 4",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/1TH/4-ee06d5a5945e7280f6c3aaf61a670dc3.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/1TH.4.S21",
+          "readingRef": "1 Thessaloniciens 4:13–18",
+          "firstVerse": 13,
+          "lastVerse": 18
+        }
+      ]
+    },
+    {
+      "theme": "Résurrection et jugement final",
+      "anchors": [
+        {
+          "title": "Ecclésiaste 12",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/ECC/12-637a118860761770c95826f9023d3379.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/ECC.12.S21",
+          "readingRef": "Ecclésiaste 12:13–14",
+          "firstVerse": 13,
+          "lastVerse": 14
+        },
+        {
+          "title": "Psaumes 9",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/9-a50fbbdf09051e4496e0e277016166c3.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.9.S21",
+          "readingRef": "Psaumes 9:8–11",
+          "firstVerse": 8,
+          "lastVerse": 11
+        },
+        {
+          "title": "Apocalypse 20",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/REV/20-5eda9dff96b0db4d13b22a2247b885e1.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/REV.20.S21",
+          "readingRef": "Apocalypse 20:11–15",
+          "firstVerse": 11,
+          "lastVerse": 15
+        }
+      ]
+    },
+    {
+      "theme": "Nouvelle création",
+      "anchors": [
+        {
+          "title": "Ésaïe 65",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/ISA/65-b1e4c29aedf945d9771d23038dcf11f8.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/ISA.65.S21",
+          "readingRef": "Ésaïe 65:17–25",
+          "firstVerse": 17,
+          "lastVerse": 25
+        },
+        {
+          "title": "Psaumes 102",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/102-4aba8252f0c7c4ddde6940a721000f6e.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.102.S21",
+          "readingRef": "Psaumes 102:26–29",
+          "firstVerse": 26,
+          "lastVerse": 29
+        },
+        {
+          "title": "Apocalypse 21",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/REV/21-422929d9091617e751b7a18f12127f3c.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/REV.21.S21",
+          "readingRef": "Apocalypse 21:1–8",
+          "firstVerse": 1,
+          "lastVerse": 8
+        }
+      ]
+    },
+    {
+      "theme": "Dieu avec son peuple",
+      "anchors": [
+        {
+          "title": "Ézéchiel 37",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/EZK/37-62de3d871f43c53b7b7c856df8db4b11.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/EZK.37.S21",
+          "readingRef": "Ézéchiel 37:26–28",
+          "firstVerse": 26,
+          "lastVerse": 28
+        },
+        {
+          "title": "Psaumes 23",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/PSA/23-8c78dbd26f76488553794d0efdda1790.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/PSA.23.S21",
+          "readingRef": "Psaumes 23:1–6",
+          "firstVerse": 1,
+          "lastVerse": 6
+        },
+        {
+          "title": "Apocalypse 22",
+          "src": "https://audio-bible-cdn.youversionapi.com/2856/32k/REV/22-e86f1eadab0cc0d8d64471af7b7a4352.mp3?version_id=152",
+          "page": "https://www.bible.com/fr/audio-bible/152/REV.22.S21",
+          "readingRef": "Apocalypse 22:1–5",
+          "firstVerse": 1,
+          "lastVerse": 5
+        }
+      ]
+    }
+  ]
+}
