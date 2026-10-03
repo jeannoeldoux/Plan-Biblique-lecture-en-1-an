@@ -1,5 +1,5 @@
 (()=>{
-const CURRENT='2026.10.03.18';let available=null,busy=false;
+const CURRENT='2026.10.03.20';let available=null,busy=false;
 const panel=document.createElement('section');panel.className='app-update';panel.setAttribute('aria-label','Mises à jour de l’application');
 const check=document.createElement('button'),apply=document.createElement('button'),status=document.createElement('p');
 check.id='checkAppUpdate';check.type='button';check.textContent='Vérifier les mises à jour';apply.id='applyAppUpdate';apply.type='button';apply.textContent='Mettre à jour maintenant';apply.hidden=true;status.id='appUpdateStatus';status.setAttribute('role','status');status.setAttribute('aria-live','polite');status.textContent='Version '+CURRENT;
