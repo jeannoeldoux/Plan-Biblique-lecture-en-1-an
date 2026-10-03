@@ -1,0 +1,222 @@
+{
+  "version": "2026.10.03.29",
+  "scope": "Structural checks of written references; not independent theological certification.",
+  "plans": {
+    "plan-chronologique-lsg.html": {
+      "days": 365,
+      "numbered_verses": 31102,
+      "books": 66,
+      "partial_entries": 0,
+      "repeated_verses": 0,
+      "pause_days": 0,
+      "audio_entries": 1189
+    },
+    "plan-chronologique-pdv.html": {
+      "days": 365,
+      "numbered_verses": 31171,
+      "books": 66,
+      "partial_entries": 0,
+      "repeated_verses": 0,
+      "pause_days": 0,
+      "audio_entries": 1189
+    },
+    "plan-chronologique.html": {
+      "days": 365,
+      "numbered_verses": 31169,
+      "books": 66,
+      "partial_entries": 0,
+      "repeated_verses": 0,
+      "pause_days": 0,
+      "audio_entries": 1189
+    },
+    "plan-classique-lsg.html": {
+      "days": 365,
+      "numbered_verses": 31102,
+      "books": 66,
+      "partial_entries": 250,
+      "repeated_verses": 1438,
+      "pause_days": 0,
+      "audio_entries": 1439
+    },
+    "plan-classique-pdv.html": {
+      "days": 365,
+      "numbered_verses": 31171,
+      "books": 66,
+      "partial_entries": 250,
+      "repeated_verses": 1438,
+      "pause_days": 0,
+      "audio_entries": 1439
+    },
+    "plan-classique.html": {
+      "days": 365,
+      "numbered_verses": 31169,
+      "books": 66,
+      "partial_entries": 0,
+      "repeated_verses": 1438,
+      "pause_days": 0,
+      "audio_entries": 1439
+    },
+    "plan-famille-lsg.html": {
+      "days": 365,
+      "numbered_verses": 31102,
+      "books": 66,
+      "partial_entries": 341,
+      "repeated_verses": 0,
+      "pause_days": 0,
+      "audio_entries": 1554
+    },
+    "plan-famille-pdv.html": {
+      "days": 365,
+      "numbered_verses": 31171,
+      "books": 66,
+      "partial_entries": 340,
+      "repeated_verses": 0,
+      "pause_days": 0,
+      "audio_entries": 1554
+    },
+    "plan-famille.html": {
+      "days": 365,
+      "numbered_verses": 31169,
+      "books": 66,
+      "partial_entries": 340,
+      "repeated_verses": 0,
+      "pause_days": 0,
+      "audio_entries": 1554
+    },
+    "plan-genres-lsg.html": {
+      "days": 365,
+      "numbered_verses": 31102,
+      "books": 66,
+      "partial_entries": 1683,
+      "repeated_verses": 0,
+      "pause_days": 0,
+      "audio_entries": 2144
+    },
+    "plan-genres-pdv.html": {
+      "days": 365,
+      "numbered_verses": 31171,
+      "books": 66,
+      "partial_entries": 1718,
+      "repeated_verses": 0,
+      "pause_days": 0,
+      "audio_entries": 2162
+    },
+    "plan-genres.html": {
+      "days": 365,
+      "numbered_verses": 31169,
+      "books": 66,
+      "partial_entries": 1711,
+      "repeated_verses": 0,
+      "pause_days": 0,
+      "audio_entries": 2159
+    },
+    "plan-parallele-lsg.html": {
+      "days": 365,
+      "numbered_verses": 31102,
+      "books": 66,
+      "partial_entries": 552,
+      "repeated_verses": 0,
+      "pause_days": 0,
+      "audio_entries": 1495
+    },
+    "plan-parallele-pdv.html": {
+      "days": 365,
+      "numbered_verses": 31171,
+      "books": 66,
+      "partial_entries": 542,
+      "repeated_verses": 0,
+      "pause_days": 0,
+      "audio_entries": 1489
+    },
+    "plan-parallele.html": {
+      "days": 365,
+      "numbered_verses": 31169,
+      "books": 66,
+      "partial_entries": 543,
+      "repeated_verses": 0,
+      "pause_days": 0,
+      "audio_entries": 1490
+    },
+    "plan-rattrapage-lsg.html": {
+      "days": 365,
+      "numbered_verses": 31102,
+      "books": 66,
+      "partial_entries": 0,
+      "repeated_verses": 0,
+      "pause_days": 52,
+      "audio_entries": 1189
+    },
+    "plan-rattrapage-pdv.html": {
+      "days": 365,
+      "numbered_verses": 31171,
+      "books": 66,
+      "partial_entries": 0,
+      "repeated_verses": 0,
+      "pause_days": 52,
+      "audio_entries": 1189
+    },
+    "plan-rattrapage.html": {
+      "days": 365,
+      "numbered_verses": 31169,
+      "books": 66,
+      "partial_entries": 0,
+      "repeated_verses": 0,
+      "pause_days": 52,
+      "audio_entries": 1189
+    },
+    "plan-salut-lsg.html": {
+      "days": 365,
+      "numbered_verses": 31102,
+      "books": 66,
+      "partial_entries": 0,
+      "repeated_verses": 0,
+      "pause_days": 0,
+      "audio_entries": 1189
+    },
+    "plan-salut-pdv.html": {
+      "days": 365,
+      "numbered_verses": 31171,
+      "books": 66,
+      "partial_entries": 0,
+      "repeated_verses": 0,
+      "pause_days": 0,
+      "audio_entries": 1189
+    },
+    "plan-salut.html": {
+      "days": 365,
+      "numbered_verses": 31169,
+      "books": 66,
+      "partial_entries": 0,
+      "repeated_verses": 0,
+      "pause_days": 0,
+      "audio_entries": 1189
+    },
+    "plan-semaines-lsg.html": {
+      "days": 365,
+      "numbered_verses": 31102,
+      "books": 66,
+      "partial_entries": 685,
+      "repeated_verses": 0,
+      "pause_days": 0,
+      "audio_entries": 1969
+    },
+    "plan-semaines-pdv.html": {
+      "days": 365,
+      "numbered_verses": 31171,
+      "books": 66,
+      "partial_entries": 690,
+      "repeated_verses": 0,
+      "pause_days": 0,
+      "audio_entries": 1969
+    },
+    "plan-semaines.html": {
+      "days": 365,
+      "numbered_verses": 31169,
+      "books": 66,
+      "partial_entries": 690,
+      "repeated_verses": 0,
+      "pause_days": 0,
+      "audio_entries": 1969
+    }
+  }
+}

@@ -13,5 +13,5 @@ async function prepare(file){btn.disabled=true;status.textContent='Téléchargem
 if(!('serviceWorker'in navigator)||!['https:','http:'].includes(location.protocol)){btn.disabled=true;status.textContent='Publiez l’application sur GitHub Pages pour activer les téléchargements hors connexion.';return}
 btn.onclick=()=>prepare(filename());
 const currentFile=location.pathname.split('/').pop(),match=currentFile.match(/^plan-(.+?)(?:-(lsg|pdv))?\.html$/);if(match){panel.querySelector('#offlinePlan').value=match[1];panel.querySelector('#offlineVersion').value=match[2]||'s21'}
-navigator.serviceWorker.register('./sw.js').then(async()=>{const files=await refresh();if(match){if(files.includes(currentFile))status.textContent='Parcours disponible hors connexion sur cet appareil.';else await prepare(currentFile)}}).catch(()=>{status.textContent='Accès hors connexion indisponible.'});
+window.bibleAppWorkerReady().then(async()=>{const files=await refresh();if(match){if(files.includes(currentFile))status.textContent='Parcours disponible hors connexion sur cet appareil.';else await prepare(currentFile)}}).catch(()=>{status.textContent='Accès hors connexion indisponible.'});
 })();

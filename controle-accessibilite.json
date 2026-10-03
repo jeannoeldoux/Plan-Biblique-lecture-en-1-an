@@ -1,0 +1,509 @@
+{
+  "scope": "Computed contrasts, visible control labels, duplicate identifiers; not a complete WCAG certification.",
+  "checks": [
+    {
+      "file": "accessibilite.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "accessibilite.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "index.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "index.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "methode-famille.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "methode-famille.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "methode-nouveaux-plans.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "methode-nouveaux-plans.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "methode-salut.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "methode-salut.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "methode-semaines.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "methode-semaines.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "methode.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "methode.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-chronologique-lsg.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-chronologique-lsg.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-chronologique-pdv.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-chronologique-pdv.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-chronologique.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-chronologique.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-classique-lsg.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-classique-lsg.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-classique-pdv.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-classique-pdv.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-classique.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-classique.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-famille-lsg.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-famille-lsg.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-famille-pdv.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-famille-pdv.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-famille.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-famille.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-genres-lsg.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-genres-lsg.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-genres-pdv.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-genres-pdv.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-genres.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-genres.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-parallele-lsg.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-parallele-lsg.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-parallele-pdv.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-parallele-pdv.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-parallele.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-parallele.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-rattrapage-lsg.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-rattrapage-lsg.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-rattrapage-pdv.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-rattrapage-pdv.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-rattrapage.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-rattrapage.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-salut-lsg.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-salut-lsg.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-salut-pdv.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-salut-pdv.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-salut.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-salut.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-semaines-lsg.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-semaines-lsg.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-semaines-pdv.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-semaines-pdv.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-semaines.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-semaines.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "qualite-des-plans.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "qualite-des-plans.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "recherche.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "recherche.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "recuperer-suivi.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "recuperer-suivi.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "tests-telephone.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "tests-telephone.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "versions-bible.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "versions-bible.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    }
+  ]
+}
