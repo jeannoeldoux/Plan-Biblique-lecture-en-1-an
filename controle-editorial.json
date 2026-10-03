@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.03.30",
+  "version": "2026.10.03.31",
   "scope": "Structural checks of written references; not independent theological certification.",
   "plans": {
     "plan-chronologique-lsg.html": {
@@ -55,6 +55,33 @@
       "repeated_verses": 1438,
       "pause_days": 0,
       "audio_entries": 1439
+    },
+    "plan-continuite-lsg.html": {
+      "days": 365,
+      "numbered_verses": 31102,
+      "books": 66,
+      "partial_entries": 0,
+      "repeated_verses": 0,
+      "pause_days": 0,
+      "audio_entries": 1189
+    },
+    "plan-continuite-pdv.html": {
+      "days": 365,
+      "numbered_verses": 31171,
+      "books": 66,
+      "partial_entries": 0,
+      "repeated_verses": 0,
+      "pause_days": 0,
+      "audio_entries": 1189
+    },
+    "plan-continuite.html": {
+      "days": 365,
+      "numbered_verses": 31169,
+      "books": 66,
+      "partial_entries": 0,
+      "repeated_verses": 0,
+      "pause_days": 0,
+      "audio_entries": 1189
     },
     "plan-famille-lsg.html": {
       "days": 365,

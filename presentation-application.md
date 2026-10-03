@@ -1,4 +1,4 @@
-# La Bible en un an : huit parcours, trois versions
+# La Bible en un an : neuf parcours, trois versions
 
 L’application accompagne la lecture des 66 livres de la Bible en un an. Elle propose la Segond 21, la Segond — Trésor Sonore et la Parole de Vie 2017.
 
@@ -39,3 +39,6 @@ Une lecture personnelle de toute la Bible, un extrait partagé, des questions de
 Références et liens de lecture, audio par chapitre, suivi quotidien, notes, favoris, date de départ personnalisée, recherche, rappels calendrier réglables, sauvegarde et transfert manuel. Chaque plan et version garde son propre suivi. Le suivi est stocké sur l’appareil ; aucun compte de synchronisation n’est requis. Les fichiers de sauvegarde contiennent les notes et doivent être conservés en lieu sûr.
 
 Les parcours peuvent être consultés hors connexion après préparation initiale. L’audio et les textes externes nécessitent Internet. Un extrait écrit peut être plus court que le chapitre audio.
+
+
+Lecture avec continuité : un neuvième parcours en 365 jours, indépendant du suivi antérieur, qui garde des chapitres entiers et certains récits ou discours sur une même journée. Accompagnement : introductions des 66 livres, aides aux passages difficiles, questions ciblées et rapprochements documentés ; leur catalogue initial ne constitue pas une certification de tous les contenus. Les supports de relecture extérieure sont prêts ; aucun avis extérieur n’a encore été recueilli.

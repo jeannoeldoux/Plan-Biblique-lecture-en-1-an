@@ -57,7 +57,7 @@ for p in sorted(root.glob('plan-*.html')):
      if e.get(field):assert e[field].startswith('https://'),(p,field)
  expected={(book,ch,v) for (book,ch),n in counts[version].items() for v in range(1,n+1)}
  missing=expected-coverage;assert not missing,(p,'missing numbered verses',len(missing),sorted(missing)[:5])
- if plan in ['genres','salut','chronologique','parallele','rattrapage','famille']:assert repeats==0,(p,'unintended repeat',repeats)
+ if plan in ['genres','salut','chronologique','parallele','rattrapage','famille','continuite']:assert repeats==0,(p,'unintended repeat',repeats)
  if plan=='rattrapage':assert pauses==52,(p,pauses)
  report[p.name]={'days':365,'numbered_verses':len(coverage),'books':len({x[0] for x in coverage}),'partial_entries':partial,'repeated_verses':repeats,'pause_days':pauses,'audio_entries':entries}
 manifest=json.loads((root/'release-manifest.json').read_text(encoding='utf8'))
@@ -67,6 +67,8 @@ for p in root.glob('*.html'):
  for link in re.findall(r'(?:src|href)="(\./[^"]+)"',p.read_text(encoding='utf8')):
   local=link.split('?')[0].split('#')[0]
   assert (root/local).exists(),('missing local link',p.name,local)
-assert len(report)==24,len(report)
+assert len(report)==27,len(report)
 (root/'controle-editorial.json').write_text(json.dumps({'version':manifest['version'],'scope':'Structural checks of written references; not independent theological certification.','plans':report},ensure_ascii=False,indent=2),encoding='utf8')
-print('PASS:',len(report),'variants, 8760 days, written references, full numbered-verse coverage, HTTPS links and release hashes')
+print('PASS:',len(report),'variants, 9855 days, written references, full numbered-verse coverage, HTTPS links and release hashes')
+from validate_study import verify
+verify(root)

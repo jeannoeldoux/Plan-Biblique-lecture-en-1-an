@@ -42,3 +42,23 @@ Version 2026.10.03.27 : correction de la navigation audio en portrait. Le statut
 Version 2026.10.03.29 : voir NOUVEAUTES-2026.10.03.29.md, controle-editorial.json et controle-accessibilite.json. Données des 24 plans identiques à l’archive 28. Contrôles de couverture écrite, clavier, contraste et mise à jour cohérente réussis. Essais VoiceOver et Contrôle vocal physiques non réalisés.
 
 Version 2026.10.03.30 : six améliorations du quotidien. Données de lecture identiques à la version 29. Tests des 24 variantes réussis : dernier repère écrit, objectif annuel ou durée adaptée, dates de pause, persistance, conservation des données. Calendrier exporté utilisant les dates recalculées, rapport local minimal, contrôle des exports classiques et protégés sans import, import volontaire des nouveaux réglages, héritage des anciens fichiers, refus des champs malformés et des rythmes sans date disponible. Bilan hebdomadaire unifié et notes importantes contrôlés. 37 pages × 6 largeurs = 222 contrôles responsive, plus 24 textes agrandis ; 74 contrôles de contraste/nom/identifiants. Migration de la version 29 conservant tout le stockage et l’accès hors connexion ; mises à jour futures complètes acceptées et livraisons incomplètes/altérées refusées. Essais physiques sur téléphone non réalisés.
+
+
+## Livraison 2026.10.03.31 — contrôles réellement réalisés
+
+- 27 variantes, 9 855 journées : couverture de tous les versets numérotés des 66 livres ; références écrites et liens internes valides ; intégrité des fichiers.
+- Les 24 tableaux JSON des huit anciens plans sont exactement identiques à ceux de l’archive de la version 30.
+- Neuvième parcours : 1 189 chapitres, sans répétition ni omission, 51 regroupements conservés sur une même journée dans les trois versions.
+- 66 introductions et 51 jeux de questions : références des questions et des six rapprochements valides dans les trois versions. Ceci ne constitue pas une certification théologique.
+- 270 vérifications de largeur (45 pages × 6 formats de 320 à 1 440 pixels), plus 27 plans en caractères à 130 % : aucun débordement horizontal ni erreur JavaScript.
+- 90 combinaisons page/thème : contraste calculé, noms des commandes visibles, unicité des identifiants. Ce contrôle n’est pas un audit WCAG complet.
+- Écriture et repères restent accessibles quand les options audio sont repliées ; reprise du repère avec retour du focus. Un seul lecteur audio et une seule journée affichée par page.
+- Aperçu de confort : annulation sans changement, application et mémorisation ; filtres des 66 livres ; accueil et suivi isolés entre versions ; recherche du neuvième plan.
+- Supports de relecture : sauvegarde locale et export limités aux réponses de la grille, sans les notes personnelles du parcours et sans envoi automatique.
+- Nouveau parcours Parole de Vie et introductions utilisables hors connexion après téléchargement.
+- Migration réelle de l’archive 30 à 31 : toutes les entrées de stockage local identiques, notes et coches toujours disponibles hors connexion.
+- Sauvegarde protégée : déchiffrement complet, sels et IV renouvelés, mauvais mot de passe et corruption refusés ; export/import/annulation et vérification du fichier sans modification du suivi.
+- Mise à jour défectueuse refusée (y compris réponse 200 au contenu incorrect), cache actif conservé ; mise à jour valide et téléchargements sélectionnés conservés ; annonce de nouvelle version.
+- Inspection visuelle de l’écran de lecture et de la fenêtre de confort à 390 pixels dans le navigateur.
+
+Limites : pas de déploiement GitHub ; pas d’essai physique iPhone/VoiceOver ; aucun avis extérieur recueilli. Découpage conservateur et catalogues d’accompagnement initiaux, à approfondir par relecture humaine.

@@ -30,6 +30,34 @@
       "duplicate": []
     },
     {
+      "file": "livres.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "livres.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "methode-continuite.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "methode-continuite.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
       "file": "methode-famille.html",
       "theme": "light",
       "contrast": [],
@@ -114,6 +142,20 @@
       "duplicate": []
     },
     {
+      "file": "passages-difficiles.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "passages-difficiles.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
       "file": "plan-chronologique-lsg.html",
       "theme": "light",
       "contrast": [],
@@ -192,6 +234,48 @@
     },
     {
       "file": "plan-classique.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-continuite-lsg.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-continuite-lsg.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-continuite-pdv.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-continuite-pdv.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-continuite.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "plan-continuite.html",
       "theme": "dark",
       "contrast": [],
       "unnamed": [],
@@ -464,6 +548,20 @@
       "duplicate": []
     },
     {
+      "file": "rapprochements.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "rapprochements.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
       "file": "recherche.html",
       "theme": "light",
       "contrast": [],
@@ -486,6 +584,20 @@
     },
     {
       "file": "recuperer-suivi.html",
+      "theme": "dark",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "relecture.html",
+      "theme": "light",
+      "contrast": [],
+      "unnamed": [],
+      "duplicate": []
+    },
+    {
+      "file": "relecture.html",
       "theme": "dark",
       "contrast": [],
       "unnamed": [],

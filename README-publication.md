@@ -1,23 +1,30 @@
-# Publication — version 2026.10.03.30
+# Application biblique — version 2026.10.03.31
 
-Décompressez l’archive puis copiez tout le contenu du dossier à la racine du dépôt GitHub Plan-Biblique-lecture-en-1-an. Remplacez les fichiers existants et ajoutez les nouveaux. Ne placez pas le dossier entier dans un sous-dossier : index.html doit rester à la racine du site.
+Neuf parcours en un an et trois versions : Segond 21, Louis Segond 1910 avec Trésor Sonore et Parole de Vie 2017.
 
-L’application conserve huit plans et trois versions bibliques. Chaque couple plan/version possède un suivi distinct. Les clés de stockage des parcours existants sont conservées.
+## Publier sur GitHub Pages
 
-Avant publication, exportez les suivis importants. Après publication, ouvrez le site à son adresse habituelle et utilisez « Vérifier les mises à jour », puis « Mettre à jour maintenant ». Vérifiez ensuite vos coches et vos notes. Une mise à jour ne supprime pas ces données ; une suppression des données du navigateur ou un changement d’origine du site peut les rendre indisponibles. Un fichier local et GitHub Pages utilisent des stockages différents : transférez le suivi par sauvegarde si nécessaire.
+1. Télécharger et extraire application-biblique-version-2026.10.03.31.zip.
+2. Remplacer les fichiers dans le même dépôt et au même emplacement, en une seule modification.
+3. Publier tous les fichiers, y compris les nouveaux modules, sw.js, version.json et release-manifest.json. Ne pas publier seulement index.html.
+4. Utiliser « Vérifier les mises à jour », puis appliquer la nouvelle version.
 
-La nouvelle présentation regroupe les options dans « Outils et réglages ». « Afficher tous les outils » rétablit la disposition complète. « Sauvegarder » exporte un fichier protégé par mot de passe. Conservez son mot de passe séparément : il ne peut pas être réinitialisé.
+Les parcours téléchargés, le suivi et l’accompagnement fonctionnent hors connexion. Les textes bibliques externes et l’audio nécessitent Internet.
 
-Le téléchargement hors connexion concerne seulement les parcours ouverts ou choisis. Le panneau « Mes parcours hors connexion » permet d’ajouter ou retirer un téléchargement sans supprimer son suivi. Audio et pages bibliques externes nécessitent Internet. Après la première publication de cette version, préparez à nouveau les parcours souhaités : les anciens caches qui contenaient tous les plans sont remplacés.
+## Conservation du suivi
 
-Les pages recuperer-suivi.html et tests-telephone.html expliquent la récupération et les essais sur iPhone. Voir NOUVEAUTES-2026.10.03.29.md pour les fonctionnalités et les vérifications.
+Les 24 tableaux de journées des huit anciens parcours sont inchangés. Le neuvième parcours possède ses propres clés de suivi et sauvegardes ; aucune conversion automatique des anciennes coches ou notes. La migration réelle de la version 30 à 31 a été testée avec conservation exacte des données locales.
 
-Cette livraison contient les fichiers à publier. La publication sur GitHub n’a pas été effectuée depuis ce travail.
+Le suivi appartient au navigateur et à son adresse d’origine. Changer de domaine, vider les données du site ou changer de navigateur ou d’appareil peut rendre le suivi absent. Exporter et vérifier une sauvegarde avant ces changements. Une sauvegarde protégée nécessite son mot de passe.
 
-Cette version ajoute la méthode éditoriale, l’aide à l’accessibilité et les contrôles de cohérence des mises à jour. Les fichiers app-common.js, validators.js, accessibility.js, editorial.js et release-manifest.json sont indispensables : publiez l’ensemble dans un même commit. La version précédente reste conservée dans son archive.
+## Nouveautés et limites
 
-Les empreintes des fichiers sont vérifiées avant installation. Une livraison partielle ou altérée est refusée ; le suivi reste dans son stockage séparé. Un signal de nouvelle version apparaît automatiquement lorsqu’une version plus récente est disponible, avec un bouton pour lancer son installation.
+Voir NOUVEAUTES-2026.10.03.31.md. Le neuvième parcours garde des chapitres entiers et 51 regroupements, avec des journées de longueur variable. Ce n’est pas une analyse exhaustive des unités littéraires.
 
-Pour préparer une future version, utilisez les instructions du dossier maintenance. Les essais VoiceOver et Contrôle vocal sont ajoutés à la page de tests iPhone et restent à effectuer sur l’appareil.
+Catalogue initial : 66 introductions synthétiques, 51 jeux de questions ciblées et six rapprochements documentés. Les autres rapprochements restent des comparaisons proposées. Aucun texte biblique complet ni fichier MP3 n’a été copié dans la livraison.
 
-Version 2026.10.03.30 : publier également daily-companion.js, application-help.js et nouveautes.html, avec le nouveau manifeste et tous les autres fichiers, dans un même commit. Voir NOUVEAUTES-2026.10.03.30.md. Les nouveaux réglages s’importent par une option volontaire ; les sauvegardes précédentes restent compatibles.
+Supports de relecture : relecture.html et SUPPORTS-RELECTURE.md. Aucun avis extérieur ni essai physique iPhone/VoiceOver n’a été réalisé. Aucun déploiement GitHub n’a été effectué dans cette livraison.
+
+## Maintenance
+
+Après modification, exécuter maintenance/build_manifest.py puis maintenance/validate_release.py. Pour une nouvelle publication, augmenter ensemble les versions de version.json, app-common.js et sw.js ainsi que les noms de caches. Ne pas modifier une version déjà publiée sans créer une nouvelle version.

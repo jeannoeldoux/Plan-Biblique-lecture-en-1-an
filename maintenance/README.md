@@ -20,3 +20,6 @@ Les empreintes détectent une publication incomplète ; elles ne sont pas une si
 La page des tests téléphone fournit un rapport manuel local. Aucun audit tiers de conformité WCAG ou de sécurité n’est revendiqué.
 
 Le module daily-companion.js complète les repères écrits, le rythme et le bilan hebdomadaire existants. Son champ facultatif dailyCompanion est inclus dans la sauvegarde de format 11 ; les anciens fichiers sans ce champ restent acceptés. application-help.js fournit les rapports locaux, l’historique et le bouton de contrôle après export. Aucun rapport n’est transmis automatiquement.
+
+
+Version 31 : 27 variantes (neuf plans), book-guides.js pour les contenus synthétiques, study.js / study.css pour leur affichage, personal-home.js et review-kit.js. Les 51 groupes protégés du parcours continuité et les catalogues initiaux demandent une relecture extérieure, non réalisée. Ne pas exécuter les anciens scripts de construction incrémentaux sur la livraison courante.

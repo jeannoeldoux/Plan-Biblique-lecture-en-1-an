@@ -1,0 +1,16 @@
+{
+  "version": "2026.10.03.31",
+  "existing_plan_arrays_unchanged": 24,
+  "reading_variants": 27,
+  "days": 9855,
+  "viewport_checks": 270,
+  "large_font_plan_checks": 27,
+  "page_theme_checks": 90,
+  "book_introductions": 66,
+  "targeted_question_sets": 51,
+  "documented_links": 6,
+  "protected_groups_per_version": 51,
+  "physical_iphone_test": "not_performed",
+  "external_review": "supports_only",
+  "deployed_to_github": false
+}

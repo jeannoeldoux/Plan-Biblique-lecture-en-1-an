@@ -1,0 +1,29 @@
+{
+  "s21": {
+    "days": 365,
+    "units": 1078,
+    "protected_groups": 51,
+    "chapters": 1189,
+    "min_daily_verses": 51,
+    "max_daily_verses": 191,
+    "independent_review": "not_performed"
+  },
+  "lsg": {
+    "days": 365,
+    "units": 1078,
+    "protected_groups": 51,
+    "chapters": 1189,
+    "min_daily_verses": 47,
+    "max_daily_verses": 191,
+    "independent_review": "not_performed"
+  },
+  "pdv": {
+    "days": 365,
+    "units": 1078,
+    "protected_groups": 51,
+    "chapters": 1189,
+    "min_daily_verses": 51,
+    "max_daily_verses": 191,
+    "independent_review": "not_performed"
+  }
+}
