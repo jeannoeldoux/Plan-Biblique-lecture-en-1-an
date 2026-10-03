@@ -1,0 +1,106 @@
+{
+  "jours": 365,
+  "livres": 66,
+  "chapitres": 1189,
+  "versets": 31169,
+  "omissions": 0,
+  "doublons": 0,
+  "etapes": [
+    {
+      "etape": 1,
+      "titre": "Création, rupture et premiers commencements",
+      "premier_jour": 1,
+      "dernier_jour": 3,
+      "chapitres": 11,
+      "versets": 299
+    },
+    {
+      "etape": 2,
+      "titre": "Promesse et foi des patriarches",
+      "premier_jour": 4,
+      "dernier_jour": 30,
+      "chapitres": 81,
+      "versets": 2304
+    },
+    {
+      "etape": 3,
+      "titre": "Délivrance, alliance et désert",
+      "premier_jour": 31,
+      "dernier_jour": 81,
+      "chapitres": 137,
+      "versets": 4319
+    },
+    {
+      "etape": 4,
+      "titre": "La terre et la fidélité mise à l’épreuve",
+      "premier_jour": 82,
+      "dernier_jour": 97,
+      "chapitres": 49,
+      "versets": 1361
+    },
+    {
+      "etape": 5,
+      "titre": "David, le royaume et la prière",
+      "premier_jour": 98,
+      "dernier_jour": 155,
+      "chapitres": 234,
+      "versets": 4976
+    },
+    {
+      "etape": 6,
+      "titre": "Les royaumes et la sagesse",
+      "premier_jour": 156,
+      "dernier_jour": 197,
+      "chapitres": 134,
+      "versets": 3612
+    },
+    {
+      "etape": 7,
+      "titre": "La voix des prophètes : justice et espérance",
+      "premier_jour": 198,
+      "dernier_jour": 221,
+      "chapitres": 114,
+      "versets": 2037
+    },
+    {
+      "etape": 8,
+      "titre": "Jugement, exil et nouvelle alliance",
+      "premier_jour": 222,
+      "dernier_jour": 258,
+      "chapitres": 117,
+      "versets": 3148
+    },
+    {
+      "etape": 9,
+      "titre": "Retour, reconstruction et attente",
+      "premier_jour": 259,
+      "dernier_jour": 272,
+      "chapitres": 52,
+      "versets": 1156
+    },
+    {
+      "etape": 10,
+      "titre": "Jésus-Christ : les quatre témoignages",
+      "premier_jour": 273,
+      "dernier_jour": 316,
+      "chapitres": 89,
+      "versets": 3779
+    },
+    {
+      "etape": 11,
+      "titre": "L’Esprit, l’Église et la vie nouvelle",
+      "premier_jour": 317,
+      "dernier_jour": 360,
+      "chapitres": 149,
+      "versets": 3773
+    },
+    {
+      "etape": 12,
+      "titre": "Accomplissement et nouvelle création",
+      "premier_jour": 361,
+      "dernier_jour": 365,
+      "chapitres": 22,
+      "versets": 405
+    }
+  ]
+}
