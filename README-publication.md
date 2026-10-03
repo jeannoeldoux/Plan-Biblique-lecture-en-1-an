@@ -18,3 +18,9 @@ Quatrième plan : Semaines thématiques. Publier plan-semaines.html, methode-sem
 
 ## Deux versions
 Publiez aussi les quatre pages plan-*-lsg.html, versions-bible.html et le nouveau sw.js. Le choix de version s’applique aux quatre plans et est mémorisé. Chaque plan/version a un suivi distinct ; les clés et les données S21 sont conservées. Voir versions-bible.html pour les ajustements, la numérotation des Psaumes et le plan classique avec ses thèmes et extraits. Tous les fichiers de cette livraison doivent rejoindre la racine du dépôt.
+
+Mises à jour : publier aussi version.json et updates.js. Pour chaque nouvelle livraison, changer le numéro dans version.json et la constante CURRENT de updates.js, ainsi que le nom CACHE de sw.js lorsque les fichiers évoluent. Publier les fichiers ensemble. Le bouton vérifie la version publiée puis télécharge les fichiers et recharge la page. Le suivi reste dans le stockage du navigateur : conserver la même adresse GitHub Pages et les noms des clés de suivi. Les changements de structure des données devront conserver ou migrer les données existantes. La consultation locale (file://) explique que cette fonction sera disponible sur GitHub Pages.
+
+
+Version 2026.10.03.20 : navigation mobile et Media Session, plus aide au transfert manuel sur chaque plan. Le suivi reste local ; le transfert export/import ne crée pas de compte ni de serveur de synchronisation. Ne pas confondre absence de serveur de suivi et absence de données techniques chez les fournisseurs : hébergement, audio et liens externes impliquent des requêtes réseau. Les fichiers de sauvegarde contiennent les notes en clair. Pour les transférer sans fournisseur tiers, utiliser un câble et conserver les fichiers en lieu sûr. Audio écran verrouillé : démarrer un chapitre puis tester sur l'appareil. Les commandes disponibles et l'enchaînement en arrière-plan dépendent du navigateur et du système. Un minuteur JavaScript peut être retardé en arrière-plan.
+
