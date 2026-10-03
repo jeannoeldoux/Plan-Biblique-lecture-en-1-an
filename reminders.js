@@ -17,9 +17,9 @@ const specific=document.createElement('details');specific.id='calendarExceptions
 const pickerLabel=document.createElement('label');pickerLabel.textContent='Mois à afficher';const picker=document.createElement('select');picker.id='calendarMonth';picker.setAttribute('aria-label','Mois des rappels');pickerLabel.append(picker);const dates=document.createElement('div');dates.id='calendarDates';const dateMessage=document.createElement('p');dateMessage.id='calendarDatesStatus';dateMessage.setAttribute('role','status');specific.append(summary,description,pickerLabel,dateMessage,dates);range.before(weekly,specific);
 const note=document.createElement('p');note.textContent='Modifier ces réglages ne change pas les événements déjà importés. Réexportez ensuite le fichier ; selon votre calendrier, une nouvelle importation peut créer des doublons. Utilisez de préférence un calendrier séparé pour vos rappels de lecture. Ces réglages sont propres à ce plan et à cette version ; ils sont inclus dans sa sauvegarde.';
 exportButton.after(note);let lastStart='';
-function iso(n){return new Date((dateNumber(startDateValue)+n-1)*86400000).toISOString().slice(0,10)}
+function iso(n){const personal=window.dailyCompanion?.dateFor(n);if(window.dailyCompanion?.enabled())return personal;return new Date((dateNumber(startDateValue)+n-1)*86400000).toISOString().slice(0,10)}
 function effective(date){return settings.exceptions[date]||settings.week[new Date(date+'T12:00:00Z').getUTCDay()]}
-function renderDates(){
+function renderDates(){if(window.dailyCompanion?.enabled()&&!window.dailyCompanion.dateFor(365)){picker.replaceChildren();dates.replaceChildren();dateMessage.textContent='Appliquez un rythme avec des dates disponibles avant de préparer les rappels.';return}
  if(!validStartDate(startDateValue)){picker.replaceChildren();dates.replaceChildren();dateMessage.textContent='Définissez votre date de départ dans « Calendrier personnel » pour afficher les dates.';lastStart='';return}
  const all=days.map((_,i)=>({n:i+1,date:iso(i+1)})),months=[...new Set(all.map(r=>r.date.slice(0,7)))],old=picker.value;
  picker.replaceChildren();for(const month of months){const o=document.createElement('option');o.value=month;o.textContent=new Intl.DateTimeFormat('fr-FR',{month:'long',year:'numeric',timeZone:'UTC'}).format(new Date(month+'-01T12:00:00Z'));picker.append(o)}
@@ -31,8 +31,8 @@ function renderDates(){
 }
 picker.onchange=renderDates;panel.addEventListener('toggle',()=>{if(panel.open)renderDates()});document.getElementById('startDate')?.addEventListener('change',()=>setTimeout(renderDates,0));
 new MutationObserver(()=>{if(lastStart!==startDateValue&&panel.open)renderDates()}).observe(document.getElementById('content'),{childList:true});renderDates();
-window.calendarReminders={snapshot:()=>JSON.parse(JSON.stringify(settings)),valid:validSettings,restore:s=>{if(validSettings(s)){settings=JSON.parse(JSON.stringify(s));settings.week.forEach((r,i)=>{weeklyInputs[i].check.checked=r.enabled;weeklyInputs[i].time.value=r.time;weeklyInputs[i].time.disabled=!r.enabled});persist();renderDates()}}};
-exportButton.onclick=()=>{
+window.calendarReminders={refresh:renderDates,snapshot:()=>JSON.parse(JSON.stringify(settings)),valid:validSettings,restore:s=>{if(validSettings(s)){settings=JSON.parse(JSON.stringify(s));settings.week.forEach((r,i)=>{weeklyInputs[i].check.checked=r.enabled;weeklyInputs[i].time.value=r.time;weeklyInputs[i].time.disabled=!r.enabled});persist();renderDates()}}};
+exportButton.onclick=()=>{if(window.dailyCompanion?.enabled()&&!window.dailyCompanion.dateFor(365)){status.textContent='Votre rythme personnel ne contient pas de calendrier valide. Choisissez des jours disponibles.';return}
  if(!validStartDate(startDateValue)){status.textContent='Définissez d’abord votre date de départ dans « Calendrier personnel ».';return}
  if(settings.week.some(r=>!validTime(r.time))){status.textContent='Choisissez des heures valides.';return}
  const list=days.map((_,i)=>i+1).filter(n=>(range.value==='all'||!completed.has(n))&&effective(iso(n)).enabled);

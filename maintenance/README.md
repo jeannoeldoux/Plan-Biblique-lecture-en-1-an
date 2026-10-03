@@ -18,3 +18,5 @@ Le service worker télécharge une version candidate et vérifie les empreintes 
 Les empreintes détectent une publication incomplète ; elles ne sont pas une signature d’identité de l’éditeur. Les mots de passe et le suivi ne figurent pas dans le manifeste. Les caches de l’application et le stockage du suivi restent distincts.
 
 La page des tests téléphone fournit un rapport manuel local. Aucun audit tiers de conformité WCAG ou de sécurité n’est revendiqué.
+
+Le module daily-companion.js complète les repères écrits, le rythme et le bilan hebdomadaire existants. Son champ facultatif dailyCompanion est inclus dans la sauvegarde de format 11 ; les anciens fichiers sans ce champ restent acceptés. application-help.js fournit les rapports locaux, l’historique et le bouton de contrôle après export. Aucun rapport n’est transmis automatiquement.
