@@ -1,0 +1,21 @@
+{
+  "version": "2026.10.03.32",
+  "scope": [
+    5,
+    6,
+    7
+  ],
+  "existing_plan_arrays_unchanged": 27,
+  "reading_variants": 27,
+  "days": 9855,
+  "viewport_checks": 282,
+  "large_font_plan_checks": 27,
+  "page_theme_checks": 94,
+  "chooser_goals": 7,
+  "notebooks_tested": 27,
+  "version_comparison_records": 4,
+  "version_comparison_links": 12,
+  "local_storage_migration": "31 to 32 byte-identical",
+  "physical_iphone_test": "not_performed",
+  "deployed_to_github": false
+}

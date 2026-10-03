@@ -1,6 +1,6 @@
 (()=>{
 'use strict';
 // Shared release configuration, independent of the user's follow-up namespaces.
-window.bibleAppRelease='2026.10.03.31';
+window.bibleAppRelease='2026.10.03.32';
 window.bibleAppWorkerReady=()=>{if(!('serviceWorker'in navigator)||!['http:','https:'].includes(location.protocol))return Promise.reject(Error('unsupported'));if(!window._bibleWorkerRegistration)window._bibleWorkerRegistration=navigator.serviceWorker.register('./sw.js',{updateViaCache:'none'}).then(()=>navigator.serviceWorker.ready);return window._bibleWorkerRegistration};
 })();

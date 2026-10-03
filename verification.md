@@ -62,3 +62,19 @@ Version 2026.10.03.30 : six améliorations du quotidien. Données de lecture ide
 - Inspection visuelle de l’écran de lecture et de la fenêtre de confort à 390 pixels dans le navigateur.
 
 Limites : pas de déploiement GitHub ; pas d’essai physique iPhone/VoiceOver ; aucun avis extérieur recueilli. Découpage conservateur et catalogues d’accompagnement initiaux, à approfondir par relecture humaine.
+
+
+## Livraison 2026.10.03.32 — points 5, 6 et 7
+
+- 27 variantes et 9 855 journées : couverture des livres et versets conservée ; les 27 tableaux JSON sont exactement identiques à l’archive 31.
+- Guide : sept objectifs, choix supplémentaire facultatif et trois versions. Le premier résultat suit l’objectif principal. Aucune réponse enregistrée ou envoyée.
+- Carnet vérifié sur les 27 variantes : catégories dans les thèmes personnels existants, mémorisation après rechargement et validité de la sauvegarde ; limite de huit thèmes sans écrasement, retrait d’une catégorie sans suppression de note.
+- Recherche locale, texte affiché sans exécuter du HTML, pagination par 20 résultats, retour et focus sur la note. Le carnet concerne le suivi en cours ; les anciens suivis restent dans les archives existantes.
+- Quatre comparaisons et douze liens sourcés ; intersection des versets partiels vérifiée, aucune modification de version par la simple consultation. Nouveaux guides disponibles hors connexion.
+- 282 contrôles de largeur : 47 pages × six formats de 320 à 1 440 pixels, plus les 27 plans à 130 % de caractères. Aucun débordement horizontal ni erreur JavaScript.
+- 94 contrôles page/thème : contrastes calculés, commandes nommées, identifiants uniques. Les liens des propositions du guide ont aussi été contrôlés après affichage des résultats, en clair et sombre. Pas de certification WCAG complète.
+- Migration réelle de l’archive 31 à 32 : stockage local identique, notes et coches encore disponibles hors connexion.
+- Sauvegardes protégées, import, annulation et vérification : tests réussis ; mise à jour corrompue refusée et cache actif conservé ; mise à jour valide conserve toutes les données et les téléchargements sélectionnés.
+- Inspection visuelle sur écran simulé à 390 pixels du carnet renseigné et du guide avec ses propositions.
+
+Pas de déploiement GitHub. Pas d’essai physique iPhone ou de relecture extérieure supplémentaire. Les autres points de la dernière liste restent pour plus tard.
