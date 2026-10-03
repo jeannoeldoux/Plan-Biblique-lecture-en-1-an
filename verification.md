@@ -16,3 +16,6 @@ Plans sources et archives précédentes conservés. Publication GitHub non effec
 
 Recherche et affichage : recherche globale dans les 2 920 journées (4 plans × 2 versions), accents, filtres, pagination 20/40 résultats, ouverture de la journée, largeurs 320/390/768 px, recherche hors connexion. Mode clair/sombre commun aux 14 pages, préférence mémorisée, synchronisation avec le réglage existant des plans. Vérifications Edge automatisées réussies, sans erreur JavaScript. Le texte intégral biblique ne fait pas partie de cet index.
 
+
+Mises à jour : tests Edge réussis pour version déjà à jour, nouvelle version, téléchargement interrompu puis réussi, mode hors connexion et fichiers locaux. Comparaison intégrale du stockage local avant/après : données de suivi simulées (coches, notes, date, archives, dernière journée) de plusieurs plans/versions et choix du plan inchangés, y compris après échec. Aucune erreur JavaScript. Le mécanisme de mise à jour ne supprime ni ne réécrit les données personnelles.
+
