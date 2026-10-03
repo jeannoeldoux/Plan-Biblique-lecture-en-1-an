@@ -1,5 +1,0 @@
-const CACHE='bible-plan-offline-v5';
-const INDEX=new URL('./index.html',self.location.href).href;
-self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.add(new Request(INDEX,{cache:'reload'}))).then(()=>self.skipWaiting()))});
-self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key.startsWith('bible-plan-offline-')&&key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim()))});
-self.addEventListener('fetch',event=>{const url=new URL(event.request.url);if(event.request.mode!=='navigate'||url.origin!==self.location.origin||!url.pathname.startsWith(new URL(self.registration.scope).pathname))return;event.respondWith((async()=>{const cache=await caches.open(CACHE);try{const response=await fetch(event.request);if(response.ok){await cache.put(INDEX,response.clone());return response}const saved=await cache.match(INDEX);return saved||response}catch(error){const saved=await cache.match(INDEX);if(saved)return saved;throw error}})())});
