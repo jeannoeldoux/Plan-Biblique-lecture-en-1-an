@@ -3,7 +3,7 @@
   "name": "La Bible en un an",
   "short_name": "Plan Biblique",
   "lang": "fr",
-  "description": "Plan de lecture biblique quotidien, audio et suivi personnel.",
+  "description": "Choisissez votre plan de lecture biblique en un an et retrouvez votre suivi personnel.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
