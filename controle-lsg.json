@@ -1,0 +1,29 @@
+{
+  "version": "Louis Segond 1910 — Trésor Sonore",
+  "catalogue_audio": 1189,
+  "plans": {
+    "classique": {
+      "jours": 365,
+      "chapitres_distincts": 1189,
+      "lecture": "chapitres entiers"
+    },
+    "salut": {
+      "jours": 365,
+      "chapitres_distincts": 1189,
+      "lecture": "chapitres entiers"
+    },
+    "semaines": {
+      "jours": 365,
+      "chapitres_distincts": 1189,
+      "lecture": "chapitres entiers"
+    },
+    "genres": {
+      "jours": 365,
+      "genres_par_jour": 4,
+      "chapitres_distincts": 1189,
+      "versets": 31102,
+      "omissions": 0,
+      "doublons": 0
+    }
+  }
+}
