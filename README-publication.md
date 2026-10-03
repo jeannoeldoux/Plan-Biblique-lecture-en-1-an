@@ -1,43 +1,20 @@
-# Publier le plan biblique — version 2026.10.03.16
+# Application avec choix du plan
 
-## Fichiers à déposer sur GitHub
+Décompressez l’archive. Copiez TOUS les fichiers de ce dossier à la racine du dépôt GitHub `Plan-Biblique-lecture-en-1-an`, en remplaçant index.html, sw.js, le manifeste et les icônes existants. Le dossier n’est pas à placer dans un sous-dossier : son contenu doit rejoindre la racine du site actuel.
 
-Décompressez plan-biblique-complet.zip. Placez les sept fichiers du site dans le même dossier que l’ancien index.html :
+L’adresse actuelle reste l’entrée de l’application. À la première ouverture, choisissez le plan. Aux ouvertures suivantes, votre dernier choix s’ouvre automatiquement. Le bouton Changer de plan affiche toujours les deux choix. Les anciens liens #jour-N ouvrent le plan précédent.
 
-- index.html
-- sw.js
-- manifest.webmanifest
-- icon.svg
-- icon-180.png
-- icon-192.png
-- icon-512.png
+Le plan précédent utilise ses anciennes clés de stockage : son suivi sur la même adresse et dans le même navigateur est conservé. Le plan par genres conserve également ses clés distinctes. Un fichier local et le site GitHub n’ont pas le même stockage : utilisez les sauvegardes de chaque plan pour transférer le suivi.
 
-Le fichier README-publication.md sert de guide ; il n’est pas nécessaire au fonctionnement du site.
+La même application installée ouvre l’accueil et retrouve le choix mémorisé. Une première visite en HTTPS prépare les quatre plans hors connexion. L’audio et les pages bibliques externes nécessitent Internet.
 
-Après la publication GitHub Pages, ouvrez le site avec Internet et actualisez la page. Le bas de page doit afficher « Version 2026.10.03.16 ».
+Si vous avez déjà publié le plan par genres dans un sous-dossier séparé, exportez son suivi depuis cette ancienne adresse, puis importez-le dans le plan par genres de la nouvelle application. Un ancien service worker propre au sous-dossier n’est pas utilisé par ces nouvelles pages à la racine.
 
-## Écran d’accueil
+Cette livraison prépare les fichiers. La publication sur le dépôt GitHub reste à effectuer. L’ancienne archive conservée et les plans sources n’ont pas été modifiés.
 
-Sur iPhone, ouvrez le site publié dans Safari, utilisez Partager, puis « Sur l’écran d’accueil ». Activez « Ouvrir comme app » si l’option est proposée. [Instructions officielles Apple](https://support.apple.com/en-eg/guide/iphone/iphea86e5236/ios).
+Troisième plan : Histoire du salut. Ses notes, coches, date de départ, sauvegardes et archives sont indépendantes. Consulter methode-salut.html pour les limites et les 12 étapes. Publier aussi plan-salut.html, methode-salut.html et le nouveau sw.js.
 
-Sur Android et les navigateurs compatibles, utilisez le bouton proposé dans « Installer sur mon écran d’accueil », ou le menu d’installation du navigateur. La disponibilité du bouton dépend du navigateur et de ses conditions d’installation. [Documentation des applications web installables](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Guides/Making_PWAs_installable).
+Quatrième plan : Semaines thématiques. Publier plan-semaines.html, methode-semaines.html et le nouveau sw.js avec tous les autres fichiers. Étude hebdomadaire et lecture suivie sont distinguées dans la méthode.
 
-Exportez une sauvegarde de votre suivi avant de changer de mode d’accès. Après l’installation, vérifiez vos notes ; si elles ne sont pas présentes, importez votre sauvegarde JSON dans l’application. Les appareils ne se synchronisent pas automatiquement.
-
-Le plan et ses données locales restent accessibles hors connexion après une première visite en ligne. L’audio et YouVersion nécessitent Internet.
-
-## Notes associées
-
-Sous chaque note quotidienne, renseignez des thèmes personnels séparés par des virgules, puis quittez le champ pour les enregistrer. Les autres notes qui partagent un thème sont proposées en liens. « Mes thèmes personnels et notes associées » regroupe les notes par thème.
-
-Les thèmes sont inclus dans les sauvegardes JSON, les suivis annuels archivés et les documents lisibles de notes.
-
-## Interface par défaut
-
-Dans « Choisir mes outils visibles », choisissez l’interface à l’ouverture : complète, essentielle ou « Ma journée ». Le choix est appliqué à la prochaine ouverture. « Ma journée » rejoint la lecture prévue aujourd’hui lorsqu’une date de départ valable est définie.
-
-## Vérifications
-
-Les réglages de démarrage, les thèmes, les sauvegardes et le cache hors connexion ont été vérifiés dans un navigateur sur ordinateur. La publication a été simulée dans un sous-dossier semblable à GitHub Pages. Les icônes et le manifeste sont inclus dans le cache hors connexion.
-
-L’installation réelle, le comportement de Safari et l’écoute écran verrouillé restent à confirmer sur votre téléphone.
+## Deux versions
+Publiez aussi les quatre pages plan-*-lsg.html, versions-bible.html et le nouveau sw.js. Le choix de version s’applique aux quatre plans et est mémorisé. Chaque plan/version a un suivi distinct ; les clés et les données S21 sont conservées. Voir versions-bible.html pour les ajustements, la numérotation des Psaumes et le plan classique avec ses thèmes et extraits. Tous les fichiers de cette livraison doivent rejoindre la racine du dépôt.
