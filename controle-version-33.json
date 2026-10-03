@@ -1,0 +1,19 @@
+{
+  "version": "2026.10.04.33",
+  "plans": 10,
+  "variants": 30,
+  "days": 10950,
+  "newPlan": "israel-nations",
+  "oldReadingDataIdenticalTo32": true,
+  "oldCommentsChanged": 522,
+  "migration32To33": "passed: every localStorage entry identical; notes and checks after offline reload",
+  "responsiveViewportChecks": 306,
+  "largeFontPlanChecks": 30,
+  "newPlanStageStartsChecked": 36,
+  "newPlanVersions": 3,
+  "offlinePlanAndMethod": "passed",
+  "singlePlayerAndDay": "passed",
+  "outsideReview": "not performed",
+  "physicalIPhoneTests": "not performed",
+  "publishedToGitHub": false
+}

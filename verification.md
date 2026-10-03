@@ -78,3 +78,13 @@ Limites : pas de déploiement GitHub ; pas d’essai physique iPhone/VoiceOver ;
 - Inspection visuelle sur écran simulé à 390 pixels du carnet renseigné et du guide avec ses propositions.
 
 Pas de déploiement GitHub. Pas d’essai physique iPhone ou de relecture extérieure supplémentaire. Les autres points de la dernière liste restent pour plus tard.
+
+
+## Version 2026.10.04.33 — 4 octobre 2026
+- 30 variantes × 365 jours ; couverture complète des 66 livres et des versets numérotés de chaque version.
+- Nouveau parcours : 1 189 chapitres uniques et 51 regroupements conservés par version, douze étapes ; répartition de 25 à 191 versets par journée.
+- 27 anciennes variantes : dates, thèmes et références identiques à la version 32 ; seules certaines formulations théologiques sont révisées.
+- Mise à jour réelle depuis l’archive 32 : contenu exact de toutes les entrées locales conservé, notes et coches disponibles après rechargement hors connexion.
+- 306 affichages responsive et 30 plans avec taille de texte augmentée ; aucun débordement horizontal ni erreur JavaScript.
+- Sélecteur, guide de choix, recherche, sauvegarde, trois versions, 36 débuts d’étape, suivi séparé, un seul lecteur et une seule journée : vérifiés. Le nouveau plan et sa méthode sont accessibles hors connexion.
+- Contrôle des commentaires : aucune référence explicite aux mouvements écartés dans les pages et scripts. Pas de relecture extérieure ni d’essai physique iPhone ; aucun déploiement GitHub.

@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.03.32",
+  "version": "2026.10.04.33",
   "scope": "Structural checks of written references; not independent theological certification.",
   "plans": {
     "plan-chronologique-lsg.html": {
@@ -136,6 +136,33 @@
       "repeated_verses": 0,
       "pause_days": 0,
       "audio_entries": 2159
+    },
+    "plan-israel-nations-lsg.html": {
+      "days": 365,
+      "numbered_verses": 31102,
+      "books": 66,
+      "partial_entries": 0,
+      "repeated_verses": 0,
+      "pause_days": 0,
+      "audio_entries": 1189
+    },
+    "plan-israel-nations-pdv.html": {
+      "days": 365,
+      "numbered_verses": 31171,
+      "books": 66,
+      "partial_entries": 0,
+      "repeated_verses": 0,
+      "pause_days": 0,
+      "audio_entries": 1189
+    },
+    "plan-israel-nations.html": {
+      "days": 365,
+      "numbered_verses": 31169,
+      "books": 66,
+      "partial_entries": 0,
+      "repeated_verses": 0,
+      "pause_days": 0,
+      "audio_entries": 1189
     },
     "plan-parallele-lsg.html": {
       "days": 365,

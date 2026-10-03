@@ -1,0 +1,284 @@
+{
+  "s21": {
+    "days": 365,
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31169,
+    "minDailyVerses": 25,
+    "maxDailyVerses": 191,
+    "stages": [
+      {
+        "stage": 1,
+        "title": "Création, humanité et dispersion",
+        "firstDay": 1,
+        "lastDay": 4,
+        "verses": 350
+      },
+      {
+        "stage": 2,
+        "title": "Abraham, Israël et la bénédiction des nations",
+        "firstDay": 5,
+        "lastDay": 19,
+        "verses": 1319
+      },
+      {
+        "stage": 3,
+        "title": "Délivrance, Sinaï et présence de Dieu",
+        "firstDay": 20,
+        "lastDay": 71,
+        "verses": 4427
+      },
+      {
+        "stage": 4,
+        "title": "Terre, fidélité et promesse royale",
+        "firstDay": 72,
+        "lastDay": 105,
+        "verses": 2915
+      },
+      {
+        "stage": 5,
+        "title": "Royaumes divisés, temple et exil",
+        "firstDay": 106,
+        "lastDay": 144,
+        "verses": 3301
+      },
+      {
+        "stage": 6,
+        "title": "Prière et sagesse devant Dieu",
+        "firstDay": 145,
+        "lastDay": 201,
+        "verses": 4851
+      },
+      {
+        "stage": 7,
+        "title": "Prophètes : Israël, Juda et les nations",
+        "firstDay": 202,
+        "lastDay": 265,
+        "verses": 5489
+      },
+      {
+        "stage": 8,
+        "title": "Retour, diaspora et attente",
+        "firstDay": 266,
+        "lastDay": 275,
+        "verses": 852
+      },
+      {
+        "stage": 9,
+        "title": "Jésus, Messie d’Israël et lumière des nations",
+        "firstDay": 276,
+        "lastDay": 318,
+        "verses": 3680
+      },
+      {
+        "stage": 10,
+        "title": "L’Esprit et l’accueil des nations",
+        "firstDay": 319,
+        "lastDay": 330,
+        "verses": 1006
+      },
+      {
+        "stage": 11,
+        "title": "Un même corps, une même grâce et une greffe",
+        "firstDay": 331,
+        "lastDay": 360,
+        "verses": 2574
+      },
+      {
+        "stage": 12,
+        "title": "Espérance et nouvelle création",
+        "firstDay": 361,
+        "lastDay": 365,
+        "verses": 405
+      }
+    ]
+  },
+  "lsg": {
+    "days": 365,
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31102,
+    "minDailyVerses": 25,
+    "maxDailyVerses": 191,
+    "stages": [
+      {
+        "stage": 1,
+        "title": "Création, humanité et dispersion",
+        "firstDay": 1,
+        "lastDay": 4,
+        "verses": 350
+      },
+      {
+        "stage": 2,
+        "title": "Abraham, Israël et la bénédiction des nations",
+        "firstDay": 5,
+        "lastDay": 20,
+        "verses": 1319
+      },
+      {
+        "stage": 3,
+        "title": "Délivrance, Sinaï et présence de Dieu",
+        "firstDay": 21,
+        "lastDay": 72,
+        "verses": 4427
+      },
+      {
+        "stage": 4,
+        "title": "Terre, fidélité et promesse royale",
+        "firstDay": 73,
+        "lastDay": 106,
+        "verses": 2914
+      },
+      {
+        "stage": 5,
+        "title": "Royaumes divisés, temple et exil",
+        "firstDay": 107,
+        "lastDay": 145,
+        "verses": 3299
+      },
+      {
+        "stage": 6,
+        "title": "Prière et sagesse devant Dieu",
+        "firstDay": 146,
+        "lastDay": 201,
+        "verses": 4785
+      },
+      {
+        "stage": 7,
+        "title": "Prophètes : Israël, Juda et les nations",
+        "firstDay": 202,
+        "lastDay": 265,
+        "verses": 5490
+      },
+      {
+        "stage": 8,
+        "title": "Retour, diaspora et attente",
+        "firstDay": 266,
+        "lastDay": 275,
+        "verses": 853
+      },
+      {
+        "stage": 9,
+        "title": "Jésus, Messie d’Israël et lumière des nations",
+        "firstDay": 276,
+        "lastDay": 318,
+        "verses": 3680
+      },
+      {
+        "stage": 10,
+        "title": "L’Esprit et l’accueil des nations",
+        "firstDay": 319,
+        "lastDay": 330,
+        "verses": 1007
+      },
+      {
+        "stage": 11,
+        "title": "Un même corps, une même grâce et une greffe",
+        "firstDay": 331,
+        "lastDay": 360,
+        "verses": 2574
+      },
+      {
+        "stage": 12,
+        "title": "Espérance et nouvelle création",
+        "firstDay": 361,
+        "lastDay": 365,
+        "verses": 404
+      }
+    ]
+  },
+  "pdv": {
+    "days": 365,
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31171,
+    "minDailyVerses": 25,
+    "maxDailyVerses": 191,
+    "stages": [
+      {
+        "stage": 1,
+        "title": "Création, humanité et dispersion",
+        "firstDay": 1,
+        "lastDay": 4,
+        "verses": 350
+      },
+      {
+        "stage": 2,
+        "title": "Abraham, Israël et la bénédiction des nations",
+        "firstDay": 5,
+        "lastDay": 19,
+        "verses": 1319
+      },
+      {
+        "stage": 3,
+        "title": "Délivrance, Sinaï et présence de Dieu",
+        "firstDay": 20,
+        "lastDay": 71,
+        "verses": 4428
+      },
+      {
+        "stage": 4,
+        "title": "Terre, fidélité et promesse royale",
+        "firstDay": 72,
+        "lastDay": 105,
+        "verses": 2915
+      },
+      {
+        "stage": 5,
+        "title": "Royaumes divisés, temple et exil",
+        "firstDay": 106,
+        "lastDay": 144,
+        "verses": 3301
+      },
+      {
+        "stage": 6,
+        "title": "Prière et sagesse devant Dieu",
+        "firstDay": 145,
+        "lastDay": 201,
+        "verses": 4851
+      },
+      {
+        "stage": 7,
+        "title": "Prophètes : Israël, Juda et les nations",
+        "firstDay": 202,
+        "lastDay": 265,
+        "verses": 5489
+      },
+      {
+        "stage": 8,
+        "title": "Retour, diaspora et attente",
+        "firstDay": 266,
+        "lastDay": 275,
+        "verses": 852
+      },
+      {
+        "stage": 9,
+        "title": "Jésus, Messie d’Israël et lumière des nations",
+        "firstDay": 276,
+        "lastDay": 318,
+        "verses": 3680
+      },
+      {
+        "stage": 10,
+        "title": "L’Esprit et l’accueil des nations",
+        "firstDay": 319,
+        "lastDay": 330,
+        "verses": 1007
+      },
+      {
+        "stage": 11,
+        "title": "Un même corps, une même grâce et une greffe",
+        "firstDay": 331,
+        "lastDay": 360,
+        "verses": 2574
+      },
+      {
+        "stage": 12,
+        "title": "Espérance et nouvelle création",
+        "firstDay": 361,
+        "lastDay": 365,
+        "verses": 405
+      }
+    ]
+  }
+}
