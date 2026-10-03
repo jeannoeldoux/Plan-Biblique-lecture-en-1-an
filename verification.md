@@ -27,3 +27,6 @@ Parole de Vie 2017, version 2026.10.03.21 : quatre plans de 365 jours, 1 189 cha
 
 Rappels personnalisés : tests réussis sur les douze parcours. Absence de date de départ, horaires hebdomadaires, jour de semaine désactivé, date exceptionnelle désactivée, horaire 23:55 avec fin le lendemain, nombre exact d'événements exportés et alarmes VALARM, liens vers le bon plan/version, affichage 320/390 px, conservation après rechargement, suppression d'une exception, suivi des lectures inchangé. Export et validation de sauvegarde avec réglages, import explicite via case facultative réussi ; aucune erreur JavaScript. Les notifications réelles de calendriers iOS/Android ne sont pas testées ici.
 
+
+Version 2026.10.03.23 : adaptation responsive des 18 pages. 108 contrôles réussis aux largeurs 320, 390, 600, 768, 1024 et 1440 px, avec panneaux des plans ouverts et rappels personnalisés affichés. 12 contrôles supplémentaires à 320 px avec texte agrandi à 130 %. Aucun débordement horizontal de page ni erreur JavaScript. Les tableaux des guides défilent dans leur propre zone. Formulaires, boutons et boîtes de dialogue adaptés aux petits écrans.
+
