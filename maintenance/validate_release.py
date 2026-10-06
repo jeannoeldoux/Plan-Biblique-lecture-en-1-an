@@ -78,3 +78,6 @@ verify_connections(root)
 
 from validate_network import verify as verify_network
 verify_network(root)
+
+from validate_home_search import verify as verify_home_search
+verify_home_search(root)

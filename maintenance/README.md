@@ -38,3 +38,9 @@ Onzième plan : Connexions, 24 séances sélectionnées, hors calendrier annuel.
 
 ## Version 2026.10.06.35
 Douzième parcours reseau : 50 dossiers de quatre étapes, 200 séances et dix modules, dans trois versions. validate_network.py vérifie sa structure et les repères, sans certifier les extensions thématiques. Le moteur connexions.js conserve les formats et clés du parcours de 24 séances et utilise une édition, des formats, une clé de suivi et une authentification de sauvegarde distincts pour reseau-200-v1. Ne jamais modifier l’ordre des séances publiées sans migration du suivi.
+
+## Recherche compacte — version 39
+
+Après modification des journées, séances, thèmes ou références, lancer build_search_index.py, puis build_manifest.py et validate_release.py. L’index de recherche est généré directement depuis les 36 pages ; ne pas réintroduire un bloc searchData dans recherche.html. search-index.js et search.js font partie du cache commun et du manifeste de contrôle par empreintes.
+
+backup-helper.js écoute bible-backup-exported uniquement après préparation réelle d’un export. Les rappels sont séparés par plan/version ; les dates des exports des plans annuels restent accessibles via leurs anciennes clés.
