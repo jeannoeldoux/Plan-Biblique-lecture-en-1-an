@@ -6,7 +6,7 @@ def normalize(s):return ''.join(c for c in unicodedata.normalize('NFD',s.casefol
 catalogs={v:json.loads((root/'maintenance'/('verses-'+v+'.json')).read_text(encoding='utf8')) for v in ['s21','lsg','pdv']}
 counts={v:{(x['book'],int(x['chapter'])):int(x['verses']) for x in rows} for v,rows in catalogs.items()}
 titlemap={}
-for p in [p for p in root.glob('plan-*.html') if not p.name.startswith('plan-connexions')]:
+for p in [p for p in root.glob('plan-*.html') if not p.name.startswith(('plan-connexions','plan-reseau'))]:
  s=p.read_text(encoding='utf8');d=json.loads(re.search(r'<script[^>]*type="application/json"[^>]*>(.*?)</script>',s,re.S)[1])
  for day in d:
   for card in day['cards']:
@@ -34,7 +34,7 @@ def passages(ref,version):
    covered.update((book,chapter,v) for v in range(lo,hi+1))
  return covered
 report={}
-for p in sorted([p for p in root.glob('plan-*.html') if not p.name.startswith('plan-connexions')]):
+for p in sorted([p for p in root.glob('plan-*.html') if not p.name.startswith(('plan-connexions','plan-reseau'))]):
  version='lsg' if p.stem.endswith('-lsg') else 'pdv' if p.stem.endswith('-pdv') else 's21'
  plan=p.stem[5:].removesuffix('-'+version);s=p.read_text(encoding='utf8')
  d=json.loads(re.search(r'<script[^>]*type="application/json"[^>]*>(.*?)</script>',s,re.S)[1]);assert len(d)==365,p
@@ -75,3 +75,6 @@ verify(root)
 
 from validate_connections import verify as verify_connections
 verify_connections(root)
+
+from validate_network import verify as verify_network
+verify_network(root)

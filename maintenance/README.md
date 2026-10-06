@@ -34,3 +34,7 @@ Dix plans, trente variantes, 10 950 journées. Le nouveau parcours israel-nation
 
 ## Version 2026.10.06.34
 Onzième plan : Connexions, 24 séances sélectionnées, hors calendrier annuel. Le validateur annuel exclut ses pages et appelle validate_connections.py pour leur schéma distinct. Ne pas les convertir en 365 journées. Les sauvegardes de ce plan ont un format et des clés propres ; leur édition est connexions-24-v1. Toute réorganisation ultérieure doit prévoir la migration du suivi.
+
+
+## Version 2026.10.06.35
+Douzième parcours reseau : 50 dossiers de quatre étapes, 200 séances et dix modules, dans trois versions. validate_network.py vérifie sa structure et les repères, sans certifier les extensions thématiques. Le moteur connexions.js conserve les formats et clés du parcours de 24 séances et utilise une édition, des formats, une clé de suivi et une authentification de sauvegarde distincts pour reseau-200-v1. Ne jamais modifier l’ordre des séances publiées sans migration du suivi.
