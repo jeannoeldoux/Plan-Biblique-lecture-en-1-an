@@ -100,3 +100,16 @@ Pas de déploiement GitHub. Pas d’essai physique iPhone ou de relecture extér
 - 330 affichages responsive, 30 plans annuels avec texte agrandi, et parcours Connexions avec texte agrandi à 320 px ; pas de débordement horizontal ni erreur JavaScript.
 - Nouveau parcours et méthode accessibles hors connexion. Les textes et MP3 externes nécessitent Internet.
 - Aucun déploiement GitHub, avis extérieur ou essai physique iPhone effectué.
+
+
+## Version 2026.10.06.35 — 6 octobre 2026
+- Douzième parcours : 50 dossiers de quatre séances, soit 200 séances par version, dix modules. Ce n’est pas une couverture intégrale ni une certification de 200 connexions uniques. Les extensions restent des comparaisons proposées.
+- Repères et chapitres contrôlés dans les trois versions, avec adaptation de Joël, Osée et Jonas. 147 chapitres distincts en S21/PDV et 146 en LSG, du fait du chapitrage de Jonas.
+- Données et commentaires des 33 variantes des onze anciens parcours identiques à la version 34.
+- Migration 34 vers 35 : toutes les entrées locales conservées exactement ; notes et coches après rechargement hors connexion.
+- Nouveau parcours : 600 séances et 30 débuts de module affichés, six questions par séance, sélection, recherche, guide et accueil personnel vérifiés ; un seul lecteur et une seule séance présents.
+- Sauvegardes simple/protégée, import, annulation, mauvaise phrase secrète, fichier altéré et mauvaise version : vérifiés.
+- Parcours de 24 séances : 72 rendus, reprise et sauvegardes vérifiés ; une sauvegarde protégée originale de la version 34 a été ouverte avec le moteur 35, sans modification du suivi lors de la prévisualisation.
+- 354 affichages responsive sans débordement horizontal ; texte agrandi vérifié sur les 30 plans annuels et sur les parcours d’étude en S21 à 320 px. Aucune erreur JavaScript.
+- Plans d’étude et méthodes accessibles hors connexion. Lecture audio externe interceptée pendant les tests ; écoute réelle sur écran iPhone verrouillé non certifiée.
+- Supports de relecture complétés pour les dix modules. Aucun avis extérieur ni déploiement GitHub effectué.

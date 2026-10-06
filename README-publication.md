@@ -1,10 +1,10 @@
-# Application biblique — version 2026.10.06.34
+# Application biblique — version 2026.10.06.35
 
-Dix parcours en un an, un parcours d’étude de 24 séances à rythme libre, et trois versions : Segond 21, Louis Segond 1910 avec Trésor Sonore et Parole de Vie 2017.
+Dix parcours en un an, deux parcours d’étude à rythme libre (24 et 200 séances), et trois versions : Segond 21, Louis Segond 1910 avec Trésor Sonore et Parole de Vie 2017.
 
 ## Publier sur GitHub Pages
 
-1. Télécharger et extraire application-biblique-version-2026.10.06.34.zip.
+1. Télécharger et extraire application-biblique-version-2026.10.06.35.zip.
 2. Remplacer les fichiers dans le même dépôt et au même emplacement, en une seule modification.
 3. Publier tous les fichiers, y compris les nouveaux modules, sw.js, version.json et release-manifest.json. Ne pas publier seulement index.html.
 4. Utiliser « Vérifier les mises à jour », puis appliquer la nouvelle version.
@@ -34,3 +34,6 @@ Le dixième parcours possède trois nouvelles pages et sa propre méthode. Ses c
 
 
 Le parcours Connexions possède un suivi distinct et des sauvegardes spécifiques, incompatibles avec les sauvegardes annuelles. Pour publier, remplacer tous les fichiers de cette version. Les textes et l’audio externes restent en ligne.
+
+
+Version 35 : douzième parcours, La Bible en réseau (50 dossiers, 200 séances), trois variantes à rythme libre. Voir methode-reseau.html et PARCOURS-RESEAU-200-SEANCES.md. Toutes les données des onze anciens parcours sont conservées. Publier tous les fichiers ensemble, y compris le module partagé connexions.js.

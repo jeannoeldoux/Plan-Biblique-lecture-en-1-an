@@ -1,0 +1,23 @@
+{
+  "s21": {
+    "sessions": 200,
+    "dossiers": 50,
+    "modules": 10,
+    "distinctChapters": 147,
+    "outsideReview": "not performed"
+  },
+  "lsg": {
+    "sessions": 200,
+    "dossiers": 50,
+    "modules": 10,
+    "distinctChapters": 146,
+    "outsideReview": "not performed"
+  },
+  "pdv": {
+    "sessions": 200,
+    "dossiers": 50,
+    "modules": 10,
+    "distinctChapters": 147,
+    "outsideReview": "not performed"
+  }
+}
