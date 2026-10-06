@@ -30,3 +30,7 @@ Version 32 : plan-guide.js et choisir-parcours.html ; notebook.js utilise notes,
 
 ## Version 2026.10.04.33
 Dix plans, trente variantes, 10 950 journées. Le nouveau parcours israel-nations dispose de clés de suivi indépendantes, de douze étapes et d’une méthode. Le validateur contrôle également ses 51 regroupements protégés et ses chapitres entiers. Toute modification de ses données après publication doit préserver le sens des journées et du suivi.
+
+
+## Version 2026.10.06.34
+Onzième plan : Connexions, 24 séances sélectionnées, hors calendrier annuel. Le validateur annuel exclut ses pages et appelle validate_connections.py pour leur schéma distinct. Ne pas les convertir en 365 journées. Les sauvegardes de ce plan ont un format et des clés propres ; leur édition est connexions-24-v1. Toute réorganisation ultérieure doit prévoir la migration du suivi.
