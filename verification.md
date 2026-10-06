@@ -88,3 +88,15 @@ Pas de déploiement GitHub. Pas d’essai physique iPhone ou de relecture extér
 - 306 affichages responsive et 30 plans avec taille de texte augmentée ; aucun débordement horizontal ni erreur JavaScript.
 - Sélecteur, guide de choix, recherche, sauvegarde, trois versions, 36 débuts d’étape, suivi séparé, un seul lecteur et une seule journée : vérifiés. Le nouveau plan et sa méthode sont accessibles hors connexion.
 - Contrôle des commentaires : aucune référence explicite aux mouvements écartés dans les pages et scripts. Pas de relecture extérieure ni d’essai physique iPhone ; aucun déploiement GitHub.
+
+
+## Version 2026.10.06.34 — 6 octobre 2026
+- Onzième parcours : sélection approfondie de 24 séances à rythme libre, 12 départs AT et 12 départs NT, dans les trois versions.
+- Tous les chapitres et versets indiqués sont valides ; Joël respecte le chapitrage de chaque version. La classification des rapprochements et les limites sont expliquées, sans certification théologique extérieure.
+- Les trente tableaux de journées des dix anciens plans, commentaires compris, sont identiques à la version 33.
+- Migration réelle 33 vers 34 : toutes les entrées locales conservées, avec notes et coches après rechargement hors connexion.
+- Tests navigateur : 72 séances, sélection, guide, recherche, accueil personnel, notes et coches distinctes, reprise, un seul lecteur, navigation audio et vitesse. Les flux audio externes sont interceptés pendant les tests ; leur écoute réelle et l’écran verrouillé sur iPhone ne sont pas certifiés.
+- Sauvegardes : export/import simple et protégé, annulation, mauvaise phrase secrète, fichier altéré et version incompatible ; refus sans modification du suivi.
+- 330 affichages responsive, 30 plans annuels avec texte agrandi, et parcours Connexions avec texte agrandi à 320 px ; pas de débordement horizontal ni erreur JavaScript.
+- Nouveau parcours et méthode accessibles hors connexion. Les textes et MP3 externes nécessitent Internet.
+- Aucun déploiement GitHub, avis extérieur ou essai physique iPhone effectué.

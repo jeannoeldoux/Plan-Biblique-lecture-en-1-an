@@ -1,0 +1,22 @@
+{
+  "version": "2026.10.06.34",
+  "plans": 11,
+  "annualVariants": 30,
+  "annualDays": 10950,
+  "studyVariants": 3,
+  "studySessionsPerVersion": 24,
+  "alternatingDirections": {
+    "ATtoNT": 12,
+    "NTtoAT": 12
+  },
+  "oldDataAndCommentsIdenticalTo33": true,
+  "migration33to34": "passed",
+  "responsiveViewports": 330,
+  "protectedBackupRoundTrip": "passed",
+  "tamperedWrongPasswordWrongVersionRejected": "passed",
+  "offlineStudyAndMethod": "passed",
+  "physicalIPhone": "not tested",
+  "externalAudioPlayback": "not tested; requests intercepted in browser tests",
+  "independentTheologicalReview": "not performed",
+  "published": false
+}
