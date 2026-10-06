@@ -1,10 +1,10 @@
-# Application biblique — version 2026.10.06.39
+# Application biblique — version 2026.10.06.40
 
 Dix parcours en un an, deux parcours d’étude à rythme libre (24 et 200 séances), et trois versions : Segond 21, Louis Segond 1910 avec Trésor Sonore et Parole de Vie 2017.
 
 ## Publier sur GitHub Pages
 
-1. Télécharger et extraire application-biblique-version-2026.10.06.39.zip.
+1. Télécharger et extraire application-biblique-version-2026.10.06.40.zip.
 2. Remplacer les fichiers dans le même dépôt et au même emplacement, en une seule modification.
 3. Publier tous les fichiers, y compris les nouveaux modules, sw.js, version.json et release-manifest.json. Ne pas publier seulement index.html.
 4. Utiliser « Vérifier les mises à jour », puis appliquer la nouvelle version.
@@ -41,3 +41,7 @@ Version 35 : douzième parcours, La Bible en réseau (50 dossiers, 200 séances)
 ## Version 39
 
 Recherche compacte, 40 versets du jour, accueil avec rubriques dépliables et aide à la sauvegarde. Publier également search-index.js, search.js, backup-helper.js et backup-helper.css. Une date d’export signifie que le téléchargement a été lancé sur cet appareil ; elle ne garantit pas que le fichier a été conservé.
+
+## Version 40
+
+Publier aussi app-navigation.js et app-navigation.css : menu partagé et invitation d’installation sur l’accueil. L’installation réelle et le lancement depuis l’écran d’accueil restent à tester sur votre téléphone.
