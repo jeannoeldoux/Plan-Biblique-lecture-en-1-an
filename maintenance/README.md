@@ -44,3 +44,6 @@ Douzième parcours reseau : 50 dossiers de quatre étapes, 200 séances et dix m
 Après modification des journées, séances, thèmes ou références, lancer build_search_index.py, puis build_manifest.py et validate_release.py. L’index de recherche est généré directement depuis les 36 pages ; ne pas réintroduire un bloc searchData dans recherche.html. search-index.js et search.js font partie du cache commun et du manifeste de contrôle par empreintes.
 
 backup-helper.js écoute bible-backup-exported uniquement après préparation réelle d’un export. Les rappels sont séparés par plan/version ; les dates des exports des plans annuels restent accessibles via leurs anciennes clés.
+
+## Aides de lecture — version 41
+reading-aids.js et reading-aids.css : rubriques mémorisées, bilan de sept étapes, repères et récupération guidée. verse-counts.js contient les nombres de versets par chapitre dans les trois éditions. Les durées sont des estimations, sans charger les fichiers audio. Les clés bible-open-sections-v1-* ne contiennent que les états ouverts/fermés. bible-verse-favorites-v1 contient les références des favoris et possède un export distinct ; ne pas l’assimiler à une sauvegarde de parcours. Préserver les clés et formats des sauvegardes historiques.
