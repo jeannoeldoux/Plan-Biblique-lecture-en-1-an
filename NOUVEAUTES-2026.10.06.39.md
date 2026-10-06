@@ -1,0 +1,8 @@
+# Version 2026.10.06.39
+
+- Recherche : 11 622 entrées préservées ; index partagé compact (environ 646 Ko) ; page initiale de 3,4 Ko ; index analysé lors d’une recherche, avec pagination de 20 résultats, filtres des 12 plans et 3 versions, message de chargement, gestion d’échec et possibilité de relancer. La page et son index sont préparés dans le cache commun pour le mode hors ligne.
+- Verset du jour : sélection élargie de 15 à 40 passages de la Torah, des Psaumes, de la sagesse, des prophètes, des Évangiles, des Actes, des épîtres et de l’Apocalypse. Louis Segond 1910, question de méditation et liens vers le chapitre complet dans les trois traductions. Même sélection toute la journée, renouvellement selon la date locale, sans répétition consécutive. Sources détaillées dans VERSETS-DU-JOUR.md.
+- Accueil : Mon parcours, le verset et Ma sauvegarde restent visibles. Présentation, choix des plans/versions et outils supplémentaires se déplient à la demande. Le choix des plans reste ouvert pour un nouveau lecteur ou via le lien « Changer de plan » (?choisir=1).
+- Sauvegardes : date du dernier export lancé pour le plan et la version choisis ; reprise des dates déjà enregistrées dans les plans annuels ; ajout aux parcours d’étude. Rappel discret si un suivi existe et si aucun export n’est connu ou s’il date d’au moins sept jours. Report du rappel d’une semaine, conservé localement. Un export annulé ne modifie pas la date. La date ne garantit pas la conservation du fichier ailleurs.
+
+Aucun compte, serveur de suivi ou collecte de notes. Les textes des plans et leurs clés de suivi sont conservés.

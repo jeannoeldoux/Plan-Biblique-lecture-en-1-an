@@ -1,0 +1,12 @@
+# Contrôle de la version 2026.10.06.39
+
+- Recherche : les 11 622 enregistrements sont identiques à ceux de la version 38 ; index régénérable depuis les 36 pages. Page HTML : 3 435 octets ; index : environ 646 Ko ; environ 77 % de réduction du contenu HTML/JS spécifique à la recherche, hors compression réseau. Le chargement et l’analyse par la page sont différés jusqu’à une recherche. Le service worker peut préparer ces fichiers en arrière-plan pour le mode hors ligne.
+- Essais du nouveau moteur : 36 couples plan/version comparés aux résultats précédents, pagination de 20, saisie effacée, chargement différé, échec de chargement puis nouvelle tentative, recherche hors ligne.
+- Versets : 40 références valides dans les trois éditions ; 400 changements de journée sans répétition consécutive ; 40 passages différents par cycle ; date locale et changement à minuit, rechargement et mode hors ligne vérifiés dans le navigateur.
+- Accueil : rubriques fermées avec un parcours choisi, choix des plans ouvert pour un premier lecteur ou ?choisir=1 ; les 12 liens conservés ; verset immédiatement sous Mon parcours ; outils accessibles en dépliant leur rubrique.
+- Sauvegardes : export réel annuel et du parcours Réseau, date mise à jour ; export protégé annulé sans changement de date ; séparation des versions ; rappel après sept jours ; report d’une semaine conservé après rechargement ; lien direct vers les boutons d’export.
+- Affichage : 354 contrôles de largeur sur 59 pages, plus texte agrandi et quatre largeurs pour les nouvelles rubriques. Aucune erreur JavaScript dans les séries réussies.
+- Régression : 72 séances du parcours court et 600 du parcours Réseau, notes, versions, recherche et sauvegardes ordinaires/protégées. Les 36 jeux de lectures et commentaires sont identiques à ceux de la version 38.
+- Migration réelle de l’archive 34 vers 39 : chaque entrée de stockage local conservée à l’identique ; notes et coches disponibles hors ligne. Mise à jour suivante simulée : échec ou fichier altéré rejeté, cache actif conservé, réussite conservant le suivi et les parcours téléchargés.
+
+Les essais utilisent des profils isolés et des données fictives. Une date d’export prouve uniquement qu’un téléchargement a été lancé, pas sa conservation. Aucune publication GitHub ni essai physique sur iPhone n’a été réalisé dans cette livraison. Les liens et flux audio externes nécessitent Internet ; la recherche, les suivis et le verset fonctionnent hors ligne après préparation du cache.
